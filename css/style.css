@@ -1,12 +1,14 @@
 /* Import fonts that are used on the page */
 @import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@600&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400&family=Montserrat:wght@200&display=swap');
+
 /*  adding styles */
 /* reseting margin and padding */
 * {
     padding: 0;
     margin: 0;
 }
+
 /* setting the default/basic colors */
 body {
     color: hsl(223deg 14% 20%);
@@ -63,6 +65,7 @@ a {
     padding: 4px;
     z-index: 10;
 }
+
 .nav-btn {
     padding: .6rem .6rem;
 }
@@ -117,6 +120,7 @@ section {
     padding-bottom: 10px;
     font-family: 'Montserrat', sans-serif;
 }
+
 /* spinning yin yang styles */
 .big-icon {
     width: 300px;
@@ -191,6 +195,7 @@ section {
     margin-top: -105px;
     margin-left: 120px;
 }
+
 /* Styles for the cards and image */
 
 .presentation {
@@ -310,6 +315,7 @@ th {
 #yt-videos {
     padding: 20px 5px;
 }
+
 #yt-videos iframe {
     width: 45%;
     height: 50vh;
@@ -345,3 +351,67 @@ footer nav ul {
     padding: 2px 8px;
 }
 
+/* Styles for contact page content */
+
+
+.contact-section {
+    font-family: 'Poppins', sans-serif;
+}
+
+.contact-section p {
+    padding: 10px;
+}
+
+/* form */
+
+form {
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+}
+
+form>* {
+    margin: auto;
+}
+
+textarea {
+    width: 50vw;
+    height: 20vh;
+}
+
+
+input,
+textarea {
+    background-color: #3a3a49;
+    color: #fff;
+}
+
+/* pseudo button */
+
+#button {
+    background-color: #3a3a49;
+    color: #fff;
+    font-family: 'Poppins', sans-serif;
+    padding: 5px;
+    box-shadow: 0 0 2px yellow;
+}
+
+/* 404 page */
+.not-found {
+    background: rgb(214, 248, 160);
+    background: linear-gradient(0deg, rgba(214, 248, 160, 1) 5%, rgba(255, 255, 255, 1) 50%, rgba(214, 248, 160, 1) 95%);
+    display: flex;
+    color: #daaa3b;
+    height: 100vh;
+}
+
+.not-found div {
+    width: 50%;
+    margin: auto;
+}
+
+.not-found div img {
+    border-radius: 50%;
+    height: 80vh;
+    box-shadow: 10px 10px 10px 10px #fff;
+}
