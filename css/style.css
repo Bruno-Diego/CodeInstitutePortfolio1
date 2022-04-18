@@ -1,0 +1,84 @@
+/* Import fonts that are used on the page */
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400&family=Montserrat:wght@200&display=swap');
+/*  adding styles */
+/* reseting margin and padding */
+* {
+    padding: 0;
+    margin: 0;
+}
+/* setting the default/basic colors */
+body {
+    color: hsl(223deg 14% 20%);
+    background: #D6F8A0;
+}
+
+/* styling and fixing the nav bar to the top of the page */
+
+header {
+    background: #D6F8A0;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 999;
+}
+
+.nav-bar {
+    display: flex;
+    flex-direction: row;
+    margin: 10px 5px;
+}
+
+#icon {
+    max-height: 7vh;
+    margin: auto;
+}
+
+.top-nav {
+    color: #f1f1f1;
+    letter-spacing: 1px;
+    text-align: center;
+    flex-grow: 1;
+}
+
+ul {
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+}
+
+li {
+    display: flex;
+}
+
+.top-nav>ul>li {
+    position: relative;
+    overflow: hidden;
+}
+
+a {
+    color: #daaa3b;
+    text-decoration: none;
+    font-family: 'Source Sans Pro', sans-serif;
+    padding: 4px;
+    z-index: 10;
+}
+.nav-btn {
+    padding: .6rem .6rem;
+}
+
+.nav-btn span {
+    position: relative;
+    display: inline-flex;
+    background-color: #D6F8A0;
+    z-index: 3;
+}
+
+.nav-btn div span:hover {
+    border-bottom: 1px solid #F9C74F;
+}
+
+.active {
+    border-bottom: 1px solid #F9C74F;
+}
+/*  */
