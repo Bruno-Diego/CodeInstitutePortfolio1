@@ -15,12 +15,19 @@ At the Home page, the main area contains a spinning YinYang made with pure CSS t
 - [Balanced rocks](https://www.pexels.com/photo/balance-macro-ocean-pebbles-235990/)
 - [Budda and sage incense](https://www.pexels.com/photo/stone-buddha-and-sage-incense-bundle-in-bowl-on-marble-shelf-4203071/)
 
+- The illustration from the "lost.html" page was taken from [error404.fun](https://error404.fun/)
+
 ### Validator Testing 
 
 - HTML
   - No errors were returned when passing through the official [W3C validator](#)
 - CSS
   - No errors were found when passing through the official [(Jigsaw) validator](#)
+
+### Content 
+
+- The text for the Home page was created by myself, except where it´s quoted, which has its oun reference 
+- The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
 
 
 Enjoy it!

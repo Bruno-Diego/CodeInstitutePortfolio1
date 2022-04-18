@@ -191,4 +191,88 @@ section {
     margin-top: -105px;
     margin-left: 120px;
 }
-/*  */
+/* Styles for the cards and image */
+
+.presentation {
+    width: 85%;
+    margin: 3vh auto;
+    justify-content: center;
+    text-align: justify;
+    box-shadow: 4px 4px 4px 4px #3a3a49;
+}
+
+#opening {
+    min-height: 390px;
+}
+
+#bamboo-forrest {
+    height: 600px;
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+}
+
+#bamboo-drama {
+    width: 100%;
+    height: 600px;
+    overflow: hidden;
+    position: relative;
+    animation-name: bamboo-forrest-drama;
+    animation-duration: 5s;
+    animation-fill-mode: forwards;
+}
+
+@keyframes bamboo-forrest-drama {
+    from {
+        transform: scale(1)
+    }
+
+    to {
+        transform: scale(1.1)
+    }
+}
+
+#advertise {
+    font-size: smaller;
+}
+
+#first-block {
+    display: flex;
+    background-color: rgba(20, 46, 16, 0.514);
+    color: rgb(255, 255, 255);
+}
+
+#budda-face {
+    height: 80vh;
+    float: left;
+    margin: 3vh;
+}
+
+#first-block-text {
+    margin: 3vh;
+}
+
+#second-block {
+    display: flex;
+    background-color: rgba(20, 46, 16, 0.514);
+    color: rgb(255, 255, 255);
+    padding-top: 30px;
+}
+
+#balanced-rocks {
+    float: right;
+    margin: 3vh;
+    height: 80vh;
+}
+
+#second-block-text {
+    margin: 3vh;
+}
+
+.presentation p {
+    padding: 10px;
+    font-family: 'Poppins', sans-serif;
+    font-size: large;
+}
+
+/* styles for the Resources page */
