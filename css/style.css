@@ -276,3 +276,72 @@ section {
 }
 
 /* styles for the Resources page */
+
+#videos {
+    padding: 3vh;
+    text-align: center;
+}
+
+#audios {
+    padding: 3vh;
+    text-align: center;
+}
+
+#links {
+    padding: 3vh;
+    text-align: center;
+}
+
+table,
+th,
+td {
+    width: 100%;
+    border: 1px solid black;
+    padding: 1vh;
+    font-size: large;
+}
+
+th {
+    font-size: larger;
+    letter-spacing: 2px;
+    font-weight: 800;
+}
+
+#yt-videos {
+    padding: 20px 5px;
+}
+#yt-videos iframe {
+    width: 45%;
+    height: 50vh;
+    margin: 10px;
+    border: none;
+}
+
+.relaxing-elipse {
+    border: green 1px solid;
+    border-radius: 50%;
+}
+
+/* styles for footer */
+
+
+footer {
+    background: whitesmoke;
+    width: 100%;
+    box-shadow: 4px 4px 4px 4px #3a3a49;
+}
+
+footer h3 {
+    margin: 2vh;
+    float: right;
+    color: #daaa3b;
+}
+
+footer nav ul {
+    justify-content: flex-end;
+}
+
+.f-ico {
+    padding: 2px 8px;
+}
+

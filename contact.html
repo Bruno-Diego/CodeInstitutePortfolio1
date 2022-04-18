@@ -15,25 +15,54 @@
     <title>YIN YANG LIFESTYLE</title>
 </head>
 <body>
-    <div class="nav-bar">
-        <!-- using an image created by myself on GIMP as website logo -->
-        <img id="icon" src="./img/icon.png"
-            alt="Image of a yin yang sign, it is a circle composed of two interlocking swirls/teardrops, one black and one white. Each swirl has a dot of the opposite color in it.">
-        <!-- create a nav bar with a clean style on CSS for a better UI/UX based on bamboo and pastel colors -->
-        <nav class="top-nav">
-            <ul>
-                <li><a href="./index.html" class="nav-btn">
-                        <div><span>&#9775; HOME</span></div>
-                    </a></li>
-                <li><a href="./resources.html" class="nav-btn">
-                        <div><span>&#9775; RESOURCES</span></div>
-                    </a></li>
-                <li><a href="./contact.html" class="nav-btn">
-                        <div><span class="active">&#9775; CONTACT US</span></div>
-                    </a></li>
-            </ul>
-        </nav>
-    </div>
+    <header>
+        <div class="nav-bar">
+            <!-- using an image created by myself on GIMP as website logo -->
+            <img id="icon" src="./img/icon.png"
+                alt="Image of a yin yang sign, it is a circle composed of two interlocking swirls/teardrops, one black and one white. Each swirl has a dot of the opposite color in it.">
+            <!-- create a nav bar with animated buttons using only CSS -->
+            <nav class="top-nav">
+                <ul>
+                    <li><a href="./index.html" class="nav-btn">
+                            <div><span>&#9775; HOME</span></div>
+                        </a></li>
+                    <li><a href="./resources.html" class="nav-btn">
+                            <div><span>&#9775; RESOURCES</span></div>
+                        </a></li>
+                    <li><a href="./contact.html" class="nav-btn">
+                            <div><span class="active">&#9775; CONTACT US</span></div>
+                        </a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+    <main>
+        <section>
+            <h1 id="contact-title">CONTACT US</h1>
+            <div class="contact-section">
+                <!-- Text explainig this project - WiP -->
+                <p class="presentation">This website is a project.
+                </p>
+                <!-- using some css from presentation class and some more from form tag -->
+                <form class="presentation" action="email" method="post">
+                    <label for="name">Name:</label>
+                    <input type="text" name="name" id="name" required>
+                    <label for="email">E-mail:</label>
+                    <input type="email" name="email" id="email" required>
+                    <label for="comment">Message:</label>
+                    <textarea name="comment" id="comment">Enter your message here...</textarea>
+                    <br>
+                    <a href="./lost.html" id="button">
+                        <!-- This link simulate a button, but the input cant be placed inside a <ancor> element -->
+                        <!-- For this reason I removed the input and left only the link -->
+                        <!-- <input type="button" value="Send Message"> -->
+                        Send Message
+                    </a>
+                </form>
+            </div>
+        </section>
+    </main>
+
     <!-- created a footer with links to social media, the links will follow the social media main pages only -->
     <footer>
         <nav>
