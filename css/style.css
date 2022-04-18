@@ -196,6 +196,23 @@ section {
     margin-left: 120px;
 }
 
+
+@keyframes animate_border {
+    to {
+        transform: translateX(-50%)
+    }
+}
+
+@keyframes rotate {
+    from {
+        transform: rotate(0deg);
+    }
+
+    to {
+        transform: rotate(-3600000deg);
+    }
+}
+
 /* Styles for the cards and image */
 
 .presentation {
@@ -414,4 +431,153 @@ textarea {
     border-radius: 50%;
     height: 80vh;
     box-shadow: 10px 10px 10px 10px #fff;
+}
+
+/* Responsive styles */
+
+
+@media screen and (max-width: 1020px) {
+    #budda-face {
+        height: 30vh;
+        margin: 3vh;
+    }
+
+    #balanced-rocks {
+        height: 30vh;
+        margin: 3vh;
+    }
+
+    #first-block-text h2 {
+        text-align: center;
+    }
+
+    #second-block-text h2 {
+        text-align: center;
+    }
+
+    #bamboo-drama {
+        height: 150px;
+    }
+
+    #bamboo-forrest {
+        height: 150px;
+    }
+    .white-circle {
+        position: relative;
+        left: 75px;
+    }
+}
+
+@media screen and (max-width: 419px) {
+    .big-icon {
+        width: 30px;
+        height: 30px;
+        padding: 10px;
+        background: black;
+        border-radius: 100%;
+        position: relative;
+        animation: rotate 40000s infinite;
+        margin: 3vh;
+        float: left;
+    }
+
+    .big-icon .white-circle {
+        width: 15px;
+        height: 15px;
+        background: white;
+        border-radius: 100%;
+    }
+
+    .big-icon .black-circle {
+        width: 15px;
+        height: 15px;
+        background: black;
+        border-radius: 100%;
+        margin-top: -19.4px;
+        z-index: auto;
+        position: absolute;
+        margin-left: 7.5px;
+
+    }
+
+    .white-tail {
+        width: 15px;
+        height: 30px;
+        background: white;
+        display: inline-block;
+        margin-top: -15px;
+        border-top-right-radius: 15px;
+        border-bottom-right-radius: 15px;
+    }
+
+    .black-eye {
+        width: 5px;
+        height: 5px;
+        background: black;
+        border-radius: 100%;
+        position: absolute;
+        margin-top: -29px;
+        margin-left: 12px;
+    }
+
+    .white-eye {
+        width: 5px;
+        height: 5px;
+        background: white;
+        border-radius: 100%;
+        position: absolute;
+        margin-top: -14px;
+        margin-left: 12px;
+    }
+
+    section {
+        margin-top: 14vh;
+    }
+
+    #budda-face {
+        height: 15vh;
+        margin: 3vh;
+    }
+
+    #balanced-rocks {
+        height: 15vh;
+        margin: 3vh;
+    }
+
+    #first-block-text h2 {
+        text-align: center;
+    }
+
+    #second-block-text h2 {
+        text-align: center;
+    }
+
+    #bamboo-drama {
+        height: 150px;
+    }
+
+    #bamboo-forrest {
+        height: 150px;
+    }
+    #yt-videos iframe {
+        width: 100%;
+    }
+    .relaxing-elipse {
+        width: 150px;
+        height: 27px;
+    }
+    .white-circle {
+        position: relative;
+        left: 8px;
+    }
+}
+
+@media screen and (max-width: 280px) {
+    .top-nav ul {
+        display: inline-block;
+    }
+    #icon {
+        margin: auto 10px;
+    }
+
 }
