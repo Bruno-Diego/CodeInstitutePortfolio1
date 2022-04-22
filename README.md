@@ -26,24 +26,35 @@ This website was first planned from scratch on Balsamic Wireframes with the lice
 
 ### Images
 
-- The three images on the index page were taken from [Pexels](https://www.pexels.com/)
-- [Bamboo path](https://www.pexels.com/photo/boardwalk-between-trees-4925235/)
-- [Balanced rocks](https://www.pexels.com/photo/balance-macro-ocean-pebbles-235990/)
-- [Budda and sage incense](https://www.pexels.com/photo/stone-buddha-and-sage-incense-bundle-in-bowl-on-marble-shelf-4203071/)
+- The three images on the index page were taken from [Pexels](https://www.pexels.com/).
+- [Bamboo path](https://www.pexels.com/photo/boardwalk-between-trees-4925235/).
+- [Balanced rocks](https://www.pexels.com/photo/balance-macro-ocean-pebbles-235990/).
+- [Budda and sage incense](https://www.pexels.com/photo/stone-buddha-and-sage-incense-bundle-in-bowl-on-marble-shelf-4203071/).
 
-- The illustration from the "lost.html" page was taken from [error404.fun](https://error404.fun/)
+- The illustration from the "lost.html" page was taken from [error404.fun](https://error404.fun/).
+
+### The Footer
+
+  - The footer section includes links to the relevant social media sites for Love Running. The links will open to a new tab to allow easy navigation for the user. 
+  - The footer is valuable to the user as it encourages them to keep connected via social media.
+
+![Footer](./img/footer.png)
+
+### The contact form
+- This page will allow the user to get in touch with the content creator submiting his name and e-mail.
+- This is a feature to be implemented, at the moment the send message button is a link that only leads to a 404 page.
 
 ### Validator Testing 
 
 - HTML
-  - No errors were returned when passing through the official [W3C validator](#)
+  - No errors were returned when passing through the official [W3C validator](#).
 - CSS
-  - No errors were found when passing through the official [(Jigsaw) validator](#)
+  - No errors were found when passing through the official [(Jigsaw) validator](#).
 
 ### Content 
 
-- The text for the Home page was created by myself, except where it´s quoted, which has its oun reference 
-- The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
+- The text for the Home page was created by myself, except where it´s quoted, which has its own reference .
+- The icons in the footer were taken from [Font Awesome](https://fontawesome.com/).
 
 
 Enjoy it!
