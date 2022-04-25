@@ -438,6 +438,10 @@ textarea {
     box-shadow: 10px 10px 10px 10px #fff;
 }
 
+#astro-img {
+    overflow: hidden;
+}
+
 /* Responsive styles */
 
 
@@ -471,6 +475,25 @@ textarea {
     .white-circle {
         position: relative;
         left: 75px;
+    }
+    header {
+        position: relative;
+    }
+    .not-found {
+        display: block;
+        width: 100%;
+    }
+    #astro-img {
+        overflow: unset;
+        margin: auto;
+    }
+    #astro-img img {
+        position: relative;
+        right: 350px;
+        top: 50px;
+    }
+    body {
+        height: fit-content;
     }
 }
 
@@ -576,6 +599,20 @@ textarea {
         position: relative;
         left: 8px;
     }
+    header {
+        position: relative;
+    }
+    .not-found {
+        display: block;
+        width: 100%;
+    }
+    #astro-img {
+        display: none;
+        overflow: unset;
+        position: relative;
+        right: 400px;
+        top: 50px;
+    }
 }
 
 @media screen and (max-width: 280px) {
@@ -585,5 +622,8 @@ textarea {
     #icon {
         margin: auto 10px;
     }
-
+    header {
+        position: relative;
+    }
+    
 }
