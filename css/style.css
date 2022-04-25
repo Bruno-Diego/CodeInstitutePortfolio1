@@ -92,6 +92,10 @@ section {
     text-align: center;
 }
 
+#section-about {
+    margin-top: 4vh;
+}
+
 #home-title {
     padding: 20px;
     letter-spacing: 2px;
@@ -456,13 +460,14 @@ textarea {
         text-align: center;
     }
 
-    #bamboo-drama {
-        height: 150px;
+    #bamboo-forrest {
+        height: 200px;
     }
 
-    #bamboo-forrest {
-        height: 150px;
+    #bamboo-drama {
+        bottom: 300px;
     }
+
     .white-circle {
         position: relative;
         left: 75px;
