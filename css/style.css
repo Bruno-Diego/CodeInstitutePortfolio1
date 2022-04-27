@@ -402,19 +402,19 @@ textarea {
 }
 
 
-input,
-textarea {
+input {
     background-color: #3a3a49;
     color: #fff;
+    width: 40%;
+    font-size: 100%;
 }
 
-/* pseudo button */
+/* Submit button */
 
-#button {
-    background-color: #3a3a49;
-    color: #fff;
+.button {
     font-family: 'Poppins', sans-serif;
-    padding: 5px;
+    width: 15%;
+    padding: 1%;
     box-shadow: 0 0 2px yellow;
 }
 

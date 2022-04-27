@@ -88,26 +88,19 @@
                     </p>
                     <p>
                         The footer contains icons for Facebook, Instagram, Github and LinkedIn, which link as expected
-                        to my accounts on the respective platforms. 
+                        to my accounts on the respective platforms.
                         The website is fully responsive and can be accessed
                         on many different screens and compatiple with the most used browsers.
                     </p>
                 </div>
                 <!-- using some css from presentation class and some more from form tag -->
-                <form class="presentation" action="email" method="post">
+                <form class="presentation" action="./success.html" method="GET">
                     <label for="name">Name:</label>
                     <input type="text" name="name" id="name" required>
                     <label for="email">E-mail:</label>
                     <input type="email" name="email" id="email" required>
-                    <label for="comment">Message:</label>
-                    <textarea name="comment" id="comment">Enter your message here...</textarea>
                     <br>
-                    <a href="./lost.html" id="button">
-                        <!-- This link simulate a button, but the input cant be placed inside a <ancor> element -->
-                        <!-- For this reason I removed the input and left only the link -->
-                        <!-- <input type="button" value="Send Message"> -->
-                        Send Message
-                    </a>
+                    <input class="button" type="submit" value="Subscribe!">
                 </form>
             </div>
         </section>
