@@ -1,14 +1,42 @@
 # Yin-Yang Website
 
-![YinYang Website Responsivity](./img/responsiveness.jpg)
+![](./img/responsiveness.jpg)
 
 [Access the Live YinYang Website here](https://bruno-diego.github.io/CodeInstitutePortfolio1/)
 
-## Welcome fellow visitor,
+## Table of Contents
+1. [**UX**](#ux)
+    - [**Purpose of the project**](#purpose-of-the-project)
+    - [**User stories**](#user-stories)
+    - [**Features**](#features)
+    - [**Future Features**](#future-features)
 
-The Yin Yang Lifestyle Website brings the ancient principles of Yin and Yang to the modern life and provide the user with resources that can make his life more balanced, healthy and peaceful. The user interested on this idea can start on the home page with the presentation text explaining the purpose of the website and information about it. Users that wish to have a deeper understanding about the subject can check the resources page that is filled with videos and audios to watch and listen on meditating or relaxing momments. It´s also possible to find links that lead to different websites with valued materials related to the idea presented. At last, there´s a Contact page with the specifications about the website and information of contact with the creator.
+2. [**Typography and color scheme**](#typography-and-color-scheme)
 
-This website was crafted using only semantic HTML5 and CSS3. It was created to give birth to the first "Portfolio Project" that I have had to complete as part of the Diploma in Full Stack Software Development course at Code Institute in Dublin, Republic of Ireland. 
+3. [**Wireframes**](#wireframes)
+
+4. [**Technologies Used**](#technologies-used)
+    - [**Code validation**](#code-validation)
+    - [**Test cases (user story based with screenshots)**](#test-cases)
+    - [**Fixed bugs**](#fixed-bugs)
+    - [**Supported screens and browsers**](#supported-screens-and-browsers)
+
+5. [**Deployment**](#deployment)
+    - [**Via Gitpod**](#via-gitpod)
+    - [**Via Github Pages**](#via-github-pages)
+6. [**Credits**](#credits)
+
+---
+
+## UX
+
+## Purpose of the project
+
+Welcome fellow visitor,
+
+The Yin Yang Lifestyle Website with the purpose of bring the ancient principles of Yin and Yang to the modern life and provide the user with resources that can make his life more balanced, healthy and peaceful. The user interested on this idea can start on the home page with the presentation text explaining the purpose of the website and information about it. Users that wish to have a deeper understanding about the subject can check the resources page that is filled with videos and audios to watch and listen on meditating or relaxing momments. It´s also possible to find links that lead to different websites with valued materials related to the idea presented. At last, there´s a Contact page with the specifications about the website and information of contact with the creator.
+
+This website was crafted using only semantic HTML5 and CSS3. It was created to give birth to the first "Portfolio Project" to complete as part of the Diploma in Full Stack Software Development course at Code Institute in Dublin, Republic of Ireland. 
 
 ## How to get into this journey 
 
@@ -19,10 +47,6 @@ The layout has a intuitive structure with the navigation bar at the top, footer 
 The footer contains icons for Facebook, Instagram, Github and LinkedIn, which link as expected to my accounts on the respective platforms. The website is fully responsive and can be accessed on many different screens and compatiple with the most used browsers.
 
 At the Home page, the main area contains a spinning YinYang made with pure CSS took from CodePen.io with credits to @AdamSSenniN who create it.
-
-## Wireframes
-
-This website was first planned from scratch on Balsamic Wireframes with the licence provided by the Code Institute. [Click here](./docs/wireframes.pdf) to see the wireframes of the raw project.
 
 ## Features
 
@@ -98,6 +122,12 @@ This website was first planned from scratch on Balsamic Wireframes with the lice
  (@Konrud) and can be viewed on [this link](https://codepen.io/Konrud/pen/mwZXgV).
  __Image to be UPDATED__
   ![Success](./img/success.png)
+
+## Wireframes
+
+This website was first planned from scratch on Balsamic Wireframes with the licence provided by the Code Institute. [Click here](./docs/wireframes.pdf) to see the wireframes of the raw project.
+
+Please note the actual website has changed slightly from these wireframes.
 
 ## Deployment
 
