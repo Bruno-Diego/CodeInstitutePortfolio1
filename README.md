@@ -36,6 +36,7 @@ This website was first planned from scratch on Balsamic Wireframes with the lice
 ### The Landing Page Section
 
   - The Landing Page includes a CSS-only spinning Yin-Yang and a presentation text introducing the user to the Yin Yang Lifestyle project and an image of a bamboo forrest to bring the unconsious idea of nature to the user experience.
+  - The credits for the spinning Yin-Yang animation goes to @AdamSSenniN and can be viewed in [this link](https://codepen.io/AdamSSenniN/pen/xZpaow).
 
   ![Landing](./img/landing.png)
 
@@ -90,11 +91,13 @@ This website was first planned from scratch on Balsamic Wireframes with the lice
 
 ![Contact](./img/contact.png)
 
-### The Lost Page
+### The Success Page
 
-  - Since this is a static website, The link to contact leads to a lost page with an image and a message saying the feature is still not available.
-
-  ![Lost](./img/lost.png)
+  - Since this is a static website, the button to subscribe leads to a success page with a message confiming the user action was successfull and a animated check sign.
+  - The credits for the animation goes to the work done in Codepen.io by Konstantin Rouda
+ (@Konrud) and can be viewed on [this link](https://codepen.io/Konrud/pen/mwZXgV).
+ __Image to be UPDATED__
+  ![Success](./img/success.png)
 
 ## Deployment
 
