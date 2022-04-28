@@ -59,7 +59,7 @@ li {
 }
 
 a {
-    color: #daaa3b;
+    color: #847f39;
     text-decoration: none;
     font-family: 'Source Sans Pro', sans-serif;
     padding: 4px;
@@ -99,24 +99,24 @@ section {
 #home-title {
     padding: 20px;
     letter-spacing: 2px;
-    color: #daaa3b;
-    text-shadow: 0 0 2px yellow;
+    color: #847f39;
+    text-shadow: 0 0 2px #ffff00;
 }
 
 #about-title {
-    color: #daaa3b;
-    text-shadow: 0 0 2px yellow;
+    color: #847f39;
+    text-shadow: 0 0 2px #ffff00;
     margin: 15px;
 }
 
 #resources-title {
-    color: #daaa3b;
+    color: #847f39;
     padding: 20px;
     letter-spacing: 2px;
 }
 
 #contact-title {
-    color: #daaa3b;
+    color: #847f39;
     padding: 20px;
     letter-spacing: 2px;
 }
@@ -225,7 +225,7 @@ section {
     margin: 3vh auto;
     justify-content: center;
     text-align: justify;
-    box-shadow: 4px 4px 4px 4px #3a3a49;
+    box-shadow: 4px 4px 4px 4px #e5dd81;
 }
 
 #opening {
@@ -265,8 +265,8 @@ section {
 
 #first-block {
     display: flex;
-    background-color: rgba(20, 46, 16, 0.514);
-    color: rgb(255, 255, 255);
+    background-color:#3d6542;
+    color: #ffffff;
 }
 
 #budda-face {
@@ -281,8 +281,8 @@ section {
 
 #second-block {
     display: flex;
-    background-color: rgba(20, 46, 16, 0.514);
-    color: rgb(255, 255, 255);
+    background-color:#3d6542;
+    color: #ffffff;
     padding-top: 30px;
 }
 
@@ -362,7 +362,7 @@ footer {
 footer h3 {
     margin: 2vh;
     float: right;
-    color: #daaa3b;
+    color: #847f39;
 }
 
 footer nav ul {
@@ -403,7 +403,7 @@ textarea {
 
 
 input {
-    background-color: #3a3a49;
+    background-color: #847f39;
     color: #fff;
     width: 40%;
     font-size: 100%;
@@ -421,10 +421,10 @@ input {
 /* success page */
 
 .subscribed {
-    background: rgb(214, 248, 160);
+    background: #d6f8a0;
     background: linear-gradient(0deg, rgba(214, 248, 160, 1) 5%, rgba(255, 255, 255, 1) 50%, rgba(214, 248, 160, 1) 95%);
     display: flex;
-    color: #daaa3b;
+    color: #847f39;
     margin-top: auto;
     margin-bottom: 1%;
 }
@@ -478,7 +478,7 @@ input {
   }
   
 .o-circle__sign--success { 
-    background: rgb(56, 176, 131);
+    background: #38b083;
   }
   
   .o-circle__sign--success .o-circle__sign {

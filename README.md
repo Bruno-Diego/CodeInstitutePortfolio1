@@ -34,19 +34,62 @@
 
 Welcome fellow visitor,
 
-The Yin Yang Lifestyle Website with the purpose of bring the ancient principles of Yin and Yang to the modern life and provide the user with resources that can make his life more balanced, healthy and peaceful. The user interested on this idea can start on the home page with the presentation text explaining the purpose of the website and information about it. Users that wish to have a deeper understanding about the subject can check the resources page that is filled with videos and audios to watch and listen on meditating or relaxing momments. It´s also possible to find links that lead to different websites with valued materials related to the idea presented. At last, there´s a Contact page with the specifications about the website and information of contact with the creator.
+The Yin Yang Lifestyle Website with the purpose of bring the ancient principles of Yin and Yang to the modern life and provide the user with resources that can make his life more balanced, healthy and peaceful. 
+
+This website is made up of the following sections:
+
+  1. Home/Introduction.
+  2. Resources with Videos, Audios and Useful Links.
+  3. Contact with information about the creation and a form to sign up to the newsletter.
+
+The business goals for this website are:
+
+  1. To inform the user about the principles behind the yin-yang doctrine.
+  2. To inspire the user to have a balanced and mindful life based on the yin-yang principles.
+  3. Provide the users with content that can change their lifestyle.
+
+The target users are:
+
+  - People of any ages.
+  - Interested in having a balanced, peaceful and healty lifestyle.
+  - Interested in know more about new lifestyles.
+
+What these users would be looking for:
+
+  - Clear, concise, easy-to-find information.
+  - Calming videos and audios watch/listen while doing daily tasks.
+  - Helpful guidance to have a balanced lifestyle.
+
+The user interested on the presented ideas can start on the home page with the presentation text explaining the purpose of the website and information about it. Users that wish to have a deeper understanding about the subject can check the resources page that is filled with videos and audios to watch and listen on meditating or relaxing momments. It´s also possible to find links that lead to different websites with valued materials related to the idea presented. At last, there´s a Contact page with the specifications about the website and information of contact with the creator.
+
+The following features will be included in this release:
+
+  - Header and menu bar, to navigate to various sections of the page.
+  - Resources page with calming videos, sounds and links for external websites.
+  - Information and recommendations for having a balanced lifestyle.
+  - Newsletter sign up form.
+  - Links to social media pages.
 
 This website was crafted using only semantic HTML5 and CSS3. It was created to give birth to the first "Portfolio Project" to complete as part of the Diploma in Full Stack Software Development course at Code Institute in Dublin, Republic of Ireland. 
 
-## How to get into this journey 
-
-For better UI/UX we used a modern and simple interface with a well defined navigation bar, spaced letters with a good contrast for a cool reading and colors based on a bamboo pallette uniformized in the entire website.
+For better UI/UX, a modern and simple interface is used with a well defined navigation bar, spaced letters with a good contrast for a cool reading and colors based on a bamboo pallette uniformized in the entire website.
 
 The layout has a intuitive structure with the navigation bar at the top, footer at the bottom and the content on the area in between. The styling is consistent through all pages. Links are styled to be underlined when selected and when hovered upon, also the external links open in a new tab. The main navigation links also have a distinct color to catch the user's attention and to encourage to click them.
 
-The footer contains icons for Facebook, Instagram, Github and LinkedIn, which link as expected to my accounts on the respective platforms. The website is fully responsive and can be accessed on many different screens and compatiple with the most used browsers.
+The footer contains icons for Facebook, Instagram, Github and LinkedIn, which link as expected to the creators accounts on the respective platforms. The website is fully responsive and can be accessed on many different screens and compatiple with the most used browsers.
 
-At the Home page, the main area contains a spinning YinYang made with pure CSS took from CodePen.io with credits to @AdamSSenniN who create it.
+## User stories
+
+  - As a **visitor**, I can intuitively navigate through the site so that I can view desired content.
+  - As a **visitor**, I can easily find useful information & tips for a better balanced life and inspiration to use the website's content.
+  - As a **visitor** I can find a navigation bar and footer so that I can see what content there is on the website.
+  - As a **visitor** I can get key information about the website so that I can spend less time having to search for information.
+  - As a **visitor** I can find calming videos to watch on momments of relaxing.
+  - As a **visitor** I can find calming sounds to listen while doing daily tasks.
+  - As a **visitor** I can access useful resources to deep dive the website's subject.
+  - As a **visitor** I can subscribe to directly receive content via a newsletter.
+  - As a **visitor** I am notified about success/fail subscription to the newsletter.
+  - As a **visitor** I can access the website on both mobile and desktop so that I can view the information regardless of my location.
 
 ## Features
 
