@@ -166,6 +166,12 @@ The footer contains icons for Facebook, Instagram, Github and LinkedIn, which li
  __Image to be UPDATED__
   ![Success](./img/success.png)
 
+## Typography and color scheme
+
+- The colors on the website is inspired on a Bamboo Palette created on [Coolors.co](https://coolors.co/) with multiple shades of greens to inspire a nature and peaceful vibe on the user.
+
+![](./img/color-palette.png)
+
 ## Wireframes
 
 This website was first planned from scratch on Balsamic Wireframes with the licence provided by the Code Institute. [Click here](./docs/wireframes.pdf) to see the wireframes of the raw project.
