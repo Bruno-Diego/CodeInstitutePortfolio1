@@ -11,7 +11,7 @@
 
 /* setting the default/basic colors */
 body {
-    color: hsl(223deg 14% 20%);
+    color: #23260c;
     background: #D6F8A0;
 }
 
@@ -37,7 +37,6 @@ header {
 }
 
 .top-nav {
-    color: #f1f1f1;
     letter-spacing: 1px;
     text-align: center;
     flex-grow: 1;
@@ -79,11 +78,11 @@ a {
 }
 
 .nav-btn div span:hover {
-    border-bottom: 1px solid #F9C74F;
+    border-bottom: 1px solid #847F39;
 }
 
 .active {
-    border-bottom: 1px solid #F9C74F;
+    border-bottom: 1px solid #847F39;
 }
 
 /* styles for the titles of the pages */
@@ -100,12 +99,12 @@ section {
     padding: 20px;
     letter-spacing: 2px;
     color: #847f39;
-    text-shadow: 0 0 2px #ffff00;
+    text-shadow: 0 0 2px #E5DD81;
 }
 
 #about-title {
     color: #847f39;
-    text-shadow: 0 0 2px #ffff00;
+    text-shadow: 0 0 2px #E5DD81;
     margin: 15px;
 }
 
@@ -225,7 +224,7 @@ section {
     margin: 3vh auto;
     justify-content: center;
     text-align: justify;
-    box-shadow: 4px 4px 4px 4px #e5dd81;
+    box-shadow: 4px 4px 4px 4px #3c5940;
 }
 
 #opening {
@@ -266,7 +265,7 @@ section {
 #first-block {
     display: flex;
     background-color:#3d6542;
-    color: #ffffff;
+    color: #f5f5f5;
 }
 
 #budda-face {
@@ -282,7 +281,7 @@ section {
 #second-block {
     display: flex;
     background-color:#3d6542;
-    color: #ffffff;
+    color: #f5f5f5;
     padding-top: 30px;
 }
 
@@ -346,7 +345,7 @@ th {
 }
 
 .relaxing-elipse {
-    border: green 1px solid;
+    border: #3D6542 1px solid;
     border-radius: 50%;
 }
 
@@ -354,9 +353,9 @@ th {
 
 
 footer {
-    background: whitesmoke;
+    background: #f5f5f5;
     width: 100%;
-    box-shadow: 4px 4px 4px 4px #3a3a49;
+    box-shadow: 4px 4px 4px 4px #23260c;
 }
 
 footer h3 {
@@ -404,7 +403,7 @@ textarea {
 
 input {
     background-color: #847f39;
-    color: #fff;
+    color: #F5F5F5;
     width: 40%;
     font-size: 100%;
 }
@@ -415,7 +414,7 @@ input {
     font-family: 'Poppins', sans-serif;
     width: 15%;
     padding: 1%;
-    box-shadow: 0 0 2px yellow;
+    box-shadow: 0 0 2px #847F39;
 }
 
 /* success page */
@@ -452,7 +451,7 @@ input {
 .o-circle__sign {
     position: relative;
     opacity: 0;
-    background: #fff;
+    background: #F5F5F5;
     animation-duration: .8s;
     animation-delay: .2s;
     animation-timing-function: ease-in-out;
@@ -574,7 +573,7 @@ input {
         width: 30px;
         height: 30px;
         padding: 10px;
-        background: black;
+        background: #000000;
         border-radius: 100%;
         position: relative;
         animation: rotate 40000s infinite;
@@ -585,14 +584,14 @@ input {
     .big-icon .white-circle {
         width: 15px;
         height: 15px;
-        background: white;
+        background: #ffffff;
         border-radius: 100%;
     }
 
     .big-icon .black-circle {
         width: 15px;
         height: 15px;
-        background: black;
+        background: #000000;
         border-radius: 100%;
         margin-top: -19.4px;
         z-index: auto;
@@ -604,7 +603,7 @@ input {
     .white-tail {
         width: 15px;
         height: 30px;
-        background: white;
+        background: #ffffff;
         display: inline-block;
         margin-top: -15px;
         border-top-right-radius: 15px;
@@ -614,7 +613,7 @@ input {
     .black-eye {
         width: 5px;
         height: 5px;
-        background: black;
+        background: #000000;
         border-radius: 100%;
         position: absolute;
         margin-top: -29px;
@@ -624,7 +623,7 @@ input {
     .white-eye {
         width: 5px;
         height: 5px;
-        background: white;
+        background: #ffffff;
         border-radius: 100%;
         position: absolute;
         margin-top: -14px;
