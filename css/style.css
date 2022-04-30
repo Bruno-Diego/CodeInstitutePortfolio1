@@ -31,8 +31,8 @@ header {
     margin: 1vh 0.2vw;
     padding: 1%;
 }
-
-#icon {
+/* spacing to the icon on the top left corner */
+.icon {
     max-height: 7vh;
     margin: auto;
 }
@@ -42,7 +42,7 @@ header {
     text-align: center;
     flex-grow: 1;
 }
-
+/* list of links to the pages */
 ul {
     list-style: none;
     display: flex;
@@ -77,11 +77,11 @@ a {
     background-color: #D6F8A0;
     z-index: 3;
 }
-
+/* bottom line when user hover the mouse */
 .nav-btn div span:hover {
     border-bottom: 0.05vw solid #847F39;
 }
-
+/* bottom line to indicate the current page */
 .active {
     border-bottom: 0.05vw solid #847F39;
 }
@@ -91,25 +91,25 @@ section {
     margin-top: auto;
     text-align: center;
 }
-
+/* spacing the first section */
 .section-about {
     margin-top: 4vh;
 }
-
-#home-title {
+/* styles for the titles */
+.home-title {
     padding: 1vw;
     letter-spacing: 0.1vw;
     color: #847f39;
     text-shadow: 0 0 0.1vw #E5DD81;
 }
 
-#about-title {
+.about-title {
     color: #847f39;
     text-shadow: 0 0 0.1vw #E5DD81;
     margin: 0.78vw;
 }
 
-#resources-title {
+.resources-title {
     color: #847f39;
     padding: 2.1vh;
     letter-spacing: 0.1vw;
@@ -201,7 +201,7 @@ section {
     margin-top: -105px;
     margin-left: 120px;
 }
-
+/* Keyframes can make the yinyang symble to spin */
 @keyframes animate_border {
     to {
         transform: translateX(-50%)
@@ -231,6 +231,7 @@ section {
 #opening {
     min-height: 41vh;
 }
+/* Image of the dramatic animated bamboo path */
 
 .bamboo-forrest {
     height: 63vh;
@@ -246,7 +247,7 @@ section {
     animation-duration: 5s;
     animation-fill-mode: forwards;
 }
-
+/* Keyframes to animate the bamboo path image */
 @keyframes bamboo-forrest-drama {
     from {
         transform: scale(1)
@@ -256,16 +257,16 @@ section {
         transform: scale(1.1)
     }
 }
-
+/* advertise message at the bottom of the home page */
 .advertise {
     font-size: smaller;
 }
-
+/* blocks of information and images on the home page */
 .block {
     background-color:#3d6542;
     color: #f5f5f5;
 }
-
+/* buddha and rocks image and related text */
 .budda-face {
     width: 100%;
 }
@@ -290,23 +291,14 @@ section {
     font-size: large;
 }
 
+/* ----------------- */
 /* styles for the Resources page */
-
-#videos {
+/* spacing the videos and audios */
+.videos, .audios, .links{
     padding: 3vh;
     text-align: center;
 }
-
-#audios {
-    padding: 3vh;
-    text-align: center;
-}
-
-#links {
-    padding: 3vh;
-    text-align: center;
-}
-
+/* spacing the table of links */
 table,
 th,
 td {
@@ -321,25 +313,24 @@ th {
     letter-spacing: 0.1vw;
     font-weight: 800;
 }
-
-#yt-videos {
+/* styling the videos */
+.yt-videos {
     padding: 0.2vw;
 }
 
-#yt-videos iframe {
+.yt-videos iframe {
     width: 45%;
     height: 50vh;
     margin: 1vh;
     border: none;
 }
-
+/* styling the audios */
 .relaxing-elipse {
     border: #3D6542 0.1vh solid;
     border-radius: 50%;
 }
-
+/* ---------------------- */
 /* styles for footer */
-
 
 footer {
     background: #f5f5f5;
@@ -356,14 +347,12 @@ footer h3 {
 footer nav ul {
     justify-content: flex-end;
 }
-
+/* spacing social media icons */
 .f-ico {
     padding: 0.1vw 0.4vw;
 }
-
+/* ----------------------- */
 /* Styles for contact page content */
-
-
 .contact-section {
     font-family: 'Poppins', sans-serif;
 }
@@ -372,7 +361,7 @@ footer nav ul {
     padding: 1vh;
 }
 
-/* form */
+/* styles for the form */
 
 form {
     display: flex;
@@ -399,12 +388,12 @@ input, textarea {
     padding: 1%;
     box-shadow: 0 0 0.1vw #847F39;
 }
-
+/* --------------------------------- */
 /* success page */
 
 .subscribed {
     background: #d6f8a0;
-    background: linear-gradient(0deg, rgba(214, 248, 160, 1) 5%, rgba(255, 255, 255, 1) 50%, rgba(214, 248, 160, 1) 95%);
+    background: linear-gradient(0deg, #d6f8a0 5%, #ffffff 50%, #d6f8a0 95%);
     display: flex;
     color: #847f39;
     margin-top: auto;
@@ -416,7 +405,7 @@ input, textarea {
     font-size: 80%;
 }
 
-/* check sign styles for subscribe success */
+/* check sign styles for success on submiting an e-mail*/
 
 .o-circle {
     display: flex;
@@ -478,7 +467,7 @@ input, textarea {
   
   }
 
-  /* make the background circle pump on the screen */
+  /* Keyframes to make the background circle pump on the screen */
 
   @keyframes circle-appearance {
     0% { transform: scale(0); }
@@ -489,15 +478,15 @@ input, textarea {
     
     100% { transform: scale(1); }
   }
-  /* make the check sign show up and pump on the screen */
+  /* Keyframes to make the check sign show up and pump on the screen */
   @keyframes success-sign-appearance {      
     50% { opacity: 1;  transform: translateX(130%) translateY(35%) rotate(45deg) scale(1.7); }
       
     100% { opacity: 1; transform: translateX(130%) translateY(35%) rotate(45deg) scale(1); }
   }
-
+/* ---------------------------- */
 /* media queries */
-
+/* Media queries for devices with 820px of screen width size and lower, like tablets and iPads */
 @media screen and (max-width: 820px) {
 
     .bamboo-forrest {
@@ -513,16 +502,12 @@ input, textarea {
         left: 75px;
     }
 
-    #astro-img {
-        overflow: unset;
-        margin: auto;
-    }
-
     body {
         height: fit-content;
     }
 }
 
+/* Media queries for devices with 600px of screen width size and lower, like most smartphones */
 @media screen and (max-width: 600px) {
     .big-icon {
         width: 30px;
@@ -588,7 +573,7 @@ input, textarea {
         margin-top: auto;
     }
 
-    #yt-videos iframe {
+    .yt-videos iframe {
         width: 100%;
     }
 
@@ -598,13 +583,13 @@ input, textarea {
     }
 
 }
-
+/* Media queries for devices with 280px of screen width size and lower, like some smartphones */
 @media screen and (max-width: 280px) {
     .top-nav ul {
         display: inline-block;
     }
 
-    #icon {
+    .icon {
         margin: auto 1vh;
     }
 }
