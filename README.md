@@ -238,7 +238,14 @@ I have used several technologies that have enabled this design to work:
 
 ## Fixed bugs
 
-  - Bug found on resizing the buddha and the rocks image;
+  - A bug was found on resizing the buddha and the rocks image on the Home page, as can be see in the images below:
+
+  ![](./img/bug1.png)
+  ![](./img/bug2.png)
+ 
+  - The root cause found was the widths/heights sizes of the images, that was set to be on pixels.
+  - To fix this issue, the CSS file was changed on the classes `.block-text`, `budda-face` and `balanced-rocks`.
+  - the pixels values were converted to percentage and the images became responsive on any screen sizes.
 
 ## Supported Screens and Browsers
 
