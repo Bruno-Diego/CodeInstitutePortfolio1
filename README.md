@@ -87,8 +87,8 @@ The footer contains icons for Facebook, Instagram, Github and LinkedIn, which li
   - As a **visitor** I can find calming videos to watch on momments of relaxing.
   - As a **visitor** I can find calming sounds to listen while doing daily tasks.
   - As a **visitor** I can access useful resources to deep dive the website's subject.
-  - As a **visitor** I can subscribe to directly receive content via a newsletter.
-  - As a **visitor** I am notified about success/fail subscription to the newsletter.
+  - As a **visitor** I can contact the creator via e-mail with the contact form.
+  - As a **visitor** I am notified about success/fail submission of the e-mail message.
   - As a **visitor** I can access the website on both mobile and desktop so that I can view the information regardless of my location.
 
 ## Features
@@ -152,17 +152,18 @@ The footer contains icons for Facebook, Instagram, Github and LinkedIn, which li
 
 ### The Contact Form
 
-- The user who wants to contact the creator can send a message to the e-mail provided on the closing text.
+- The user who wants to contact the creator can send a message to the e-mail provided or fill the form at the bottom of the contact page.
 - This contact form was created with didactical purposes with the objective to allow the user to get in touch with the content creator submiting his name and e-mail.
-- This is a feature to be implemented, at the moment the send message button is a link that only leads to a 404 (lost) page.
+- This is a fully functional feature thanks to the [FormSubmit website](https://formsubmit.co/) that alows the page to send the user's message to the creator e-mail only using HTML.
 
 ![Contact](./img/contact.png)
 
 ### The Success Page
 
-  - Since this is a static website, the button to subscribe leads to a success page with a message confiming the user action was successfull and a animated check sign.
+  - The button of the contact form leads the user to the success page confirming that the e-mail with the message was successfully sent.
   - The credits for the animation goes to the work done in Codepen.io by Konstantin Rouda
  (@Konrud) and can be viewed on [this link](https://codepen.io/Konrud/pen/mwZXgV).
+ 
  __Image to be UPDATED__
   ![Success](./img/success.png)
 
@@ -208,6 +209,8 @@ I have used several technologies that have enabled this design to work:
     - Used to validate all HTML code written and used in this webpage.
 - [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/#validate_by_input)
     - Used to validate all CSS code written and used in this webpage.
+- [FormSubmit](https://formsubmit.co/)
+    - Used to submit a contact message with the HTML form.
 - [AmIResponsive](http://ami.responsivedesign.is/)
     - Used to generate repsonsive image used in README file.
 
