@@ -1,6 +1,6 @@
 # Yin-Yang Website
 
-![](./img/responsiveness.jpg)
+![](./img/responsiveness.png)
 
 [Access the Live YinYang Website here](https://bruno-diego.github.io/CodeInstitutePortfolio1/)
 
