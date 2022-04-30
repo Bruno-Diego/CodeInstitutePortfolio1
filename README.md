@@ -98,14 +98,12 @@ The footer contains icons for Facebook, Instagram, Github and LinkedIn, which li
   - Featured on all four pages, the full responsive navigation bar includes links to the Home page, Resources and Contact page and is identical in each page to allow for easy navigation.
   - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button.
 
-  ![Navigation](./img/navigation.png)
-
 ### The Landing Page Section
 
   - The Landing Page includes a CSS-only spinning Yin-Yang and a presentation text introducing the user to the Yin Yang Lifestyle project and an image of a bamboo forrest to bring the unconsious idea of nature to the user experience.
   - The credits for the spinning Yin-Yang animation goes to @AdamSSenniN and can be viewed in [this link](https://codepen.io/AdamSSenniN/pen/xZpaow).
 
-  ![Landing](./img/landing.png)
+
 
 ### Cards Section
   
@@ -115,32 +113,24 @@ The footer contains icons for Facebook, Instagram, Github and LinkedIn, which li
 
   - At the bottom of the section an advertisement was created to inform the users that this project is not a religion or any form of councelling.
 
-![Card](./img/card.png)
-
 ### The Footer
 
   - The footer section includes links to the relevant social media sites for Love Running. The links will open to a new tab to allow easy navigation for the user. 
   - The footer is valuable to the user as it encourages them to keep connected via social media.
 
-![Footer](./img/footer.png)
-
 ### Videos
 
   - The videos in resources page will provide the user with calming and relaxing videos from YouTube's Creative Commons.
-
-  ![Videos](./img/videos.png)
 
 ### Audios
 
   - These audios were extracted from YouTube's Creative Commons so the user can listen while doing other tasks.
 
-   ![Audios](./img/audio.png)
 
 ### Links
 
   - The user who wants to learn more and seek other resources has a list of links avalable to search more ways to have a balanced life.
 
-  ![Links](./img/links.png)
 
 ### The Ending Text
 
@@ -148,7 +138,7 @@ The footer contains icons for Facebook, Instagram, Github and LinkedIn, which li
 
   - This text provides the user with an e-mail to contact the creator.
 
-  ![About](./img/about.png)
+
 
 ### The Contact Form
 
@@ -156,7 +146,7 @@ The footer contains icons for Facebook, Instagram, Github and LinkedIn, which li
 - This contact form was created with didactical purposes with the objective to allow the user to get in touch with the content creator submiting his name and e-mail.
 - This is a fully functional feature thanks to the [FormSubmit website](https://formsubmit.co/) that alows the page to send the user's message to the creator e-mail only using HTML.
 
-![Contact](./img/contact.png)
+
 
 ### The Success Page
 
@@ -165,7 +155,7 @@ The footer contains icons for Facebook, Instagram, Github and LinkedIn, which li
  (@Konrud) and can be viewed on [this link](https://codepen.io/Konrud/pen/mwZXgV).
 
  __Image to be UPDATED__
-  ![Success](./img/success.png)
+  
 
 ## Typography and color scheme
 
@@ -214,6 +204,46 @@ I have used several technologies that have enabled this design to work:
 - [AmIResponsive](http://ami.responsivedesign.is/)
     - Used to generate repsonsive image used in README file.
 
+
+## Code validation 
+
+- HTML
+  - No errors were returned when passing through the official [W3C validator](#).
+- CSS
+  - No errors were found when passing through the official [(Jigsaw) validator](#).
+
+## Test cases
+
+  ![Navigation](./img/navigation.png)
+
+  ![Landing](./img/landing.png)
+
+  ![Card](./img/card.png)
+
+  ![Footer](./img/footer.png)
+
+  ![Videos](./img/videos.png)
+
+  ![Audios](./img/audio.png)
+  
+  ![Links](./img/links.png)
+  
+  ![About](./img/about.png)
+  
+  ![Contact](./img/contact.png)
+  
+  ![Success](./img/success.png)
+
+## Fixed bugs
+
+  - Bug found on resizing the buddha and the rocks image;
+
+## Supported Screens and Browsers
+
+- The website is fully responsive and can be accessed smartphones (width of ###), tablets (width of ###) and monitors.
+
+- The website was tested and is supported on the browsers Google Chrome, Mozilla Firefox, Microsoft Edge, Opera and Brave.
+
 ## Deployment
 
 The master branch of this repository has been used for the deployed version of this application.
@@ -231,6 +261,7 @@ The project deployment was based on the [Code Institute Gitpod Full Template](ht
     - `git add .`: adds all modified files to a staging area
     - `git commit -m "A message explaining your commit"`: commits all changes to a local repository.
     - `git push`: pushes all your committed changes to your Github repository.
+  - You can view the website in a browser by using the command `python3 -m http.server` and clicking on the button `Open Browser` on the box that will pop up.
 
 *Forking the GitHub Repository*
 
@@ -268,26 +299,14 @@ Please note it can take a while for this link to become fully active.
 
 The live link can be found [here](https://bruno-diego.github.io/CodeInstitutePortfolio1/).
 
-## Images
+## Credits 
 
+- The text for the Home page and contact page was created by myself, except where it´s quoted, which has its own credits reference.
+- The icons in the footer were taken from [Font Awesome](https://fontawesome.com/).
 - The three images on the index page were taken from [Pexels](https://www.pexels.com/).
 - [Bamboo path](https://www.pexels.com/photo/boardwalk-between-trees-4925235/).
 - [Balanced rocks](https://www.pexels.com/photo/balance-macro-ocean-pebbles-235990/).
 - [Budda and sage incense](https://www.pexels.com/photo/stone-buddha-and-sage-incense-bundle-in-bowl-on-marble-shelf-4203071/).
-
-- The illustration from the "lost.html" page was taken from [error404.fun](https://error404.fun/).
-
-## Validator Testing 
-
-- HTML
-  - No errors were returned when passing through the official [W3C validator](#).
-- CSS
-  - No errors were found when passing through the official [(Jigsaw) validator](#).
-
-## Content 
-
-- The text for the Home page was created by myself, except where it´s quoted, which has its own reference .
-- The icons in the footer were taken from [Font Awesome](https://fontawesome.com/).
 
 ---
 
