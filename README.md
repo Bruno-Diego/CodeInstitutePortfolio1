@@ -81,7 +81,8 @@ The footer contains icons for Facebook, Instagram, Github and LinkedIn, which li
 
   - As a **visitor**, I can intuitively navigate through the site so that I can view desired content.
   - As a **visitor**, I can easily find useful information & tips for a better balanced life and inspiration to use the website's content.
-  - As a **visitor** I can find a navigation bar and footer so that I can see what content there is on the website.
+  - As a **visitor** I can find a navigation bar at the top and footer at the bottom so that I can see what content there is on the website.
+  - As a **visitor** I can find links at the footer that open to social media websites on a new tab.
   - As a **visitor** I can get key information about the website so that I can spend less time having to search for information.
   - As a **visitor** I can find calming videos to watch for momments of relaxing.
   - As a **visitor** I can find calming sounds to listen while doing daily tasks.
@@ -102,8 +103,6 @@ The footer contains icons for Facebook, Instagram, Github and LinkedIn, which li
 
   - The Landing Page includes a CSS-only spinning Yin-Yang and a presentation text introducing the user to the Yin Yang Lifestyle project and an image of a bamboo forrest to bring the unconsious idea of nature to the user experience.
   - The credits for the spinning Yin-Yang animation goes to @AdamSSenniN and can be viewed in [this link](https://codepen.io/AdamSSenniN/pen/xZpaow).
-
-
 
 ### Cards Section
   
@@ -126,11 +125,9 @@ The footer contains icons for Facebook, Instagram, Github and LinkedIn, which li
 
   - These audios were extracted from YouTube's Creative Commons so the user can listen while doing other tasks.
 
-
 ### Links
 
   - The user who wants to learn more and seek other resources has a list of links avalable to search more ways to have a balanced life.
-
 
 ### The Ending Text
 
@@ -138,15 +135,11 @@ The footer contains icons for Facebook, Instagram, Github and LinkedIn, which li
 
   - This text provides the user with an e-mail to contact the creator.
 
-
-
 ### The Contact Form
 
-- The user who wants to contact the creator can send a message to the e-mail provided or fill the form at the bottom of the contact page.
-- This contact form was created with didactical purposes with the objective to allow the user to get in touch with the content creator submiting his name and e-mail.
-- This is a fully functional feature thanks to the [FormSubmit website](https://formsubmit.co/) that alows the page to send the user's message to the creator e-mail only using HTML.
-
-
+  - The user who wants to contact the creator can send a message to the e-mail provided or fill the form at the bottom of the contact page.
+  - This contact form was created with didactical purposes with the objective to allow the user to get in touch with the content creator submiting his name and e-mail.
+  - This is a fully functional feature thanks to the [FormSubmit website](https://formsubmit.co/) that alows the page to send the user's message to the creator e-mail only using HTML.
 
 ### The Success Page
 
@@ -173,37 +166,36 @@ Please note the actual website has changed slightly from these wireframes.
 
 I have used several technologies that have enabled this design to work:
 
-- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
-    - Used as the basic building block for the project and to structure the content.
-- [CSS](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics)
-    - Used to style all the web content across the project. 
-- [Font Awesome](https://fontawesome.com/)
-    - Used to obtain the social media icons used in the footer and the icons in La Petite Review.
-- [Google Developer Tools](https://developers.google.com/web/tools/chrome-devtools)
-    - Used as a primary method of fixing spacing issues, finding bugs, and testing responsiveness across the project.
-- [GitHub](https://github.com/)
-    - Used to store code for the project after being pushed.
-- [Git](https://git-scm.com/)
-    - Used for version control by utilising the Gitpod terminal to commit to Git and Push to GitHub.
-- [Gitpod](https://www.gitpod.io/)
-    - Used as the development environment.
-- [Balsamiq](https://balsamiq.com/)
-    - Used to create the wireframes for the project
-- [Coloors](https://coolors.co/)
-    - Used to create a colour palette for the design.
-- [Favicon.io](https://favicon.io/)
-    - Used to create favicon's for my website.
-- [Color Contrast Accessibility Validator](https://color.a11y.com/)
-    - Allowed me to test the colour contrast of my webpage.
-- [W3C Markup Validation Service](https://validator.w3.org/) 
-    - Used to validate all HTML code written and used in this webpage.
-- [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/#validate_by_input)
-    - Used to validate all CSS code written and used in this webpage.
-- [FormSubmit](https://formsubmit.co/)
-    - Used to submit a contact message with the HTML form.
-- [AmIResponsive](http://ami.responsivedesign.is/)
-    - Used to generate repsonsive image used in README file.
-
+  - [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+      - Used as the basic building block for the project and to structure the content.
+  - [CSS](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics)
+      - Used to style all the web content across the project. 
+  - [Font Awesome](https://fontawesome.com/)
+      - Used to obtain the social media icons used in the footer and the icons in La Petite Review.
+  - [Google Developer Tools](https://developers.google.com/web/tools/chrome-devtools)
+      - Used as a primary method of fixing spacing issues, finding bugs, and testing responsiveness across the project.
+  - [GitHub](https://github.com/)
+      - Used to store code for the project after being pushed.
+  - [Git](https://git-scm.com/)
+      - Used for version control by utilising the Gitpod terminal to commit to Git and Push to GitHub.
+  - [Gitpod](https://www.gitpod.io/)
+      - Used as the development environment.
+  - [Balsamiq](https://balsamiq.com/)
+      - Used to create the wireframes for the project
+  - [Coloors](https://coolors.co/)
+      - Used to create a colour palette for the design.
+  - [Favicon.io](https://favicon.io/)
+      - Used to create favicon's for my website.
+  - [Color Contrast Accessibility Validator](https://color.a11y.com/)
+      - Allowed me to test the colour contrast of my webpage.
+  - [W3C Markup Validation Service](https://validator.w3.org/) 
+      - Used to validate all HTML code written and used in this webpage.
+  - [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/#validate_by_input)
+      - Used to validate all CSS code written and used in this webpage.
+  - [FormSubmit](https://formsubmit.co/)
+      - Used to submit a contact message with the HTML form.
+  - [AmIResponsive](http://ami.responsivedesign.is/)
+      - Used to generate repsonsive image used in README file.
 
 ## Code validation 
 
@@ -213,25 +205,35 @@ I have used several technologies that have enabled this design to work:
   - No errors were found when passing through the official [(Jigsaw) validator](#).
 
 ## Test cases
-
+  
+  - As a **visitor**, I can intuitively navigate through the site so that I can view desired content.
   ![Navigation](./img/navigation.png)
-
+  
+  - As a **visitor**, I can easily find useful information & tips for a better balanced life and inspiration to use the website's content.
   ![Landing](./img/landing.png)
-
+  
+  - As a **visitor** I can get key information about the website so that I can spend less time having to search for information.
   ![Card](./img/card.png)
-
+  
+  - As a **visitor** I can find links at the footer that open to social media websites on a new tab.
   ![Footer](./img/footer.png)
-
+  
+  - As a **visitor** I can find calming videos to watch for momments of relaxing.
   ![Videos](./img/videos.png)
-
+  
+  - As a **visitor** I can find calming sounds to listen while doing daily tasks.
   ![Audios](./img/audio.png)
   
+  - As a **visitor** I can access useful resources to deep dive the website's subject.
   ![Links](./img/links.png)
   
+  - As a **visitor** I can easily find information about the creator and the technologies of this website.
   ![About](./img/about.png)
   
+  - As a **visitor** I can contact the creator via e-mail with the contact form.
   ![Contact](./img/contact.png)
   
+  - As a **visitor** I am notified about success/fail submission of the e-mail message.
   ![Success](./img/success.png)
 
 ## Fixed bugs
@@ -301,12 +303,12 @@ The live link can be found [here](https://bruno-diego.github.io/CodeInstitutePor
 
 ## Credits 
 
-- The text for the Home page and contact page was created by myself, except where it´s quoted, which has its own credits reference.
-- The icons in the footer were taken from [Font Awesome](https://fontawesome.com/).
-- The three images on the index page were taken from [Pexels](https://www.pexels.com/).
-- [Bamboo path](https://www.pexels.com/photo/boardwalk-between-trees-4925235/).
-- [Balanced rocks](https://www.pexels.com/photo/balance-macro-ocean-pebbles-235990/).
-- [Budda and sage incense](https://www.pexels.com/photo/stone-buddha-and-sage-incense-bundle-in-bowl-on-marble-shelf-4203071/).
+  - The text for the Home page and contact page was created by myself, except where it´s quoted, which has its own credits reference.
+  - The icons in the footer were taken from [Font Awesome](https://fontawesome.com/).
+  - The three images on the index page were taken from [Pexels](https://www.pexels.com/).
+  - [Bamboo path](https://www.pexels.com/photo/boardwalk-between-trees-4925235/).
+  - [Balanced rocks](https://www.pexels.com/photo/balance-macro-ocean-pebbles-235990/).
+  - [Budda and sage incense](https://www.pexels.com/photo/stone-buddha-and-sage-incense-bundle-in-bowl-on-marble-shelf-4203071/).
 
 ---
 
