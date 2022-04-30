@@ -242,7 +242,7 @@ I have used several technologies that have enabled this design to work:
 
 ## Supported Screens and Browsers
 
-- The website is fully responsive and can be accessed smartphones (width of ###), tablets (width of ###) and monitors.
+- The website is fully responsive and can be accessed smartphones (width of ###), tablets (width of ###) and monitors of any size.
 
 - The website was tested and is supported on the browsers Google Chrome, Mozilla Firefox, Microsoft Edge, Opera and Brave.
 
