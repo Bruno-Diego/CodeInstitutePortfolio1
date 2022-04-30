@@ -114,7 +114,7 @@ section {
     letter-spacing: 2px;
 }
 
-#contact-title {
+.contact-title {
     color: #847f39;
     padding: 20px;
     letter-spacing: 2px;
@@ -395,14 +395,8 @@ form>* {
     margin: auto;
 }
 
-textarea {
-    width: 50vw;
-    height: 20vh;
-}
-
-
-input {
-    background-color: #847f39;
+input, textarea {
+    background-color: #3d6542;
     color: #F5F5F5;
     width: 40%;
     font-size: 100%;
