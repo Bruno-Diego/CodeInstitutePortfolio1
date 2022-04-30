@@ -228,10 +228,10 @@ I have used several technologies that have enabled this design to work:
   ![Links](./img/links.png)
   
   - As a **visitor** I can easily find information about the creator and the technologies of this website.
-  ![About](./img/about.png)
+  ![Contact](./img/contact.png)
   
   - As a **visitor** I can contact the creator via e-mail with the contact form.
-  ![Contact](./img/contact.png)
+  ![Form](./img/form.png)
   
   - As a **visitor** I am notified about success/fail submission of the e-mail message.
   ![Success](./img/success.png)
