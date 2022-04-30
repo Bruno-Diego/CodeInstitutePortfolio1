@@ -9,7 +9,6 @@
     - [**Purpose of the project**](#purpose-of-the-project)
     - [**User stories**](#user-stories)
     - [**Features**](#features)
-    - [**Future Features**](#future-features)
 
 2. [**Typography and color scheme**](#typography-and-color-scheme)
 
@@ -84,9 +83,10 @@ The footer contains icons for Facebook, Instagram, Github and LinkedIn, which li
   - As a **visitor**, I can easily find useful information & tips for a better balanced life and inspiration to use the website's content.
   - As a **visitor** I can find a navigation bar and footer so that I can see what content there is on the website.
   - As a **visitor** I can get key information about the website so that I can spend less time having to search for information.
-  - As a **visitor** I can find calming videos to watch on momments of relaxing.
+  - As a **visitor** I can find calming videos to watch for momments of relaxing.
   - As a **visitor** I can find calming sounds to listen while doing daily tasks.
   - As a **visitor** I can access useful resources to deep dive the website's subject.
+  - As a **visitor** I can easily find information about the creator and the technologies of this website.
   - As a **visitor** I can contact the creator via e-mail with the contact form.
   - As a **visitor** I am notified about success/fail submission of the e-mail message.
   - As a **visitor** I can access the website on both mobile and desktop so that I can view the information regardless of my location.
@@ -163,7 +163,7 @@ The footer contains icons for Facebook, Instagram, Github and LinkedIn, which li
   - The button of the contact form leads the user to the success page confirming that the e-mail with the message was successfully sent.
   - The credits for the animation goes to the work done in Codepen.io by Konstantin Rouda
  (@Konrud) and can be viewed on [this link](https://codepen.io/Konrud/pen/mwZXgV).
- 
+
  __Image to be UPDATED__
   ![Success](./img/success.png)
 
