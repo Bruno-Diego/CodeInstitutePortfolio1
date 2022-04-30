@@ -91,7 +91,7 @@ section {
     text-align: center;
 }
 
-#section-about {
+.section-about {
     margin-top: 4vh;
 }
 
@@ -231,18 +231,15 @@ section {
     min-height: 390px;
 }
 
-#bamboo-forrest {
+.bamboo-forrest {
     height: 600px;
-    width: 100%;
     overflow: hidden;
-    position: relative;
 }
 
-#bamboo-drama {
+.bamboo-drama {
+    height: 100%;
     width: 100%;
-    height: 600px;
     overflow: hidden;
-    position: relative;
     animation-name: bamboo-forrest-drama;
     animation-duration: 5s;
     animation-fill-mode: forwards;
@@ -258,40 +255,31 @@ section {
     }
 }
 
-#advertise {
+.advertise {
     font-size: smaller;
 }
 
-#first-block {
-    display: flex;
+.block {
     background-color:#3d6542;
     color: #f5f5f5;
 }
 
-#budda-face {
-    height: 80vh;
-    margin: 3vh;
+.budda-face {
+    width: 100%;
 }
 
-#first-block-text {
-    margin: 3vh;
+.block-text {
+    margin: 1%;
+    padding: 3%;
 }
 
-#second-block {
-    display: flex;
-    background-color:#3d6542;
-    color: #f5f5f5;
-    padding-top: 30px;
+.block-text h2 {
+    text-align: center;
+    font-size: 200%;
 }
 
-#balanced-rocks {
-    float: right;
-    margin: 3vh;
-    height: 80vh;
-}
-
-#second-block-text {
-    margin: 3vh;
+.balanced-rocks {
+    width: 100%;
 }
 
 .presentation p {
@@ -508,31 +496,13 @@ input, textarea {
 
 /* media queries */
 
+@media screen and (max-width: 768px) {
 
-@media screen and (max-width: 1020px) {
-    #budda-face {
-        height: 30vh;
-        margin: 3vh;
-    }
-
-    #balanced-rocks {
-        height: 30vh;
-        margin: 3vh;
-    }
-
-    #first-block-text h2 {
-        text-align: center;
-    }
-
-    #second-block-text h2 {
-        text-align: center;
-    }
-
-    #bamboo-forrest {
+    .bamboo-forrest {
         height: 200px;
     }
 
-    #bamboo-drama {
+    .bamboo-drama {
         bottom: 300px;
     }
 
@@ -561,7 +531,7 @@ input, textarea {
     }
 }
 
-@media screen and (max-width: 419px) {
+@media screen and (max-width: 600px) {
     .big-icon {
         width: 30px;
         height: 30px;
@@ -627,30 +597,12 @@ input, textarea {
         margin-top: auto;
     }
 
-    #budda-face {
-        height: 15vh;
-        margin: 3vh;
+    .bamboo-drama {
+        height: 100%;
     }
 
-    #balanced-rocks {
-        height: 15vh;
-        margin: 3vh;
-    }
-
-    #first-block-text h2 {
-        text-align: center;
-    }
-
-    #second-block-text h2 {
-        text-align: center;
-    }
-
-    #bamboo-drama {
-        height: 150px;
-    }
-
-    #bamboo-forrest {
-        height: 150px;
+    .bamboo-forrest {
+        height: 100%;
     }
 
     #yt-videos iframe {
