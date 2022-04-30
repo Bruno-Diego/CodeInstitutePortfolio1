@@ -29,6 +29,7 @@ header {
     display: flex;
     flex-direction: row;
     margin: 1vh 0.2vw;
+    padding: 1%;
 }
 
 #icon {
@@ -512,10 +513,6 @@ input, textarea {
         left: 75px;
     }
 
-    header {
-        position: relative;
-    }
-
     #astro-img {
         overflow: unset;
         margin: auto;
@@ -600,10 +597,6 @@ input, textarea {
         left: 8px;
     }
 
-    header {
-        position: relative;
-    }
-
 }
 
 @media screen and (max-width: 280px) {
@@ -614,9 +607,4 @@ input, textarea {
     #icon {
         margin: auto 1vh;
     }
-
-    header {
-        position: relative;
-    }
-
 }
