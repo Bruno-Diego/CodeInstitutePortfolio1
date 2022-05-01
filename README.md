@@ -152,6 +152,8 @@ The footer contains icons for Facebook, Instagram, Github and LinkedIn, which li
 
 ## Typography and color scheme
 
+
+
 - The colors on the website is inspired on a Bamboo Palette created on [Coolors.co](https://coolors.co/) with multiple shades of greens to inspire a nature and peaceful vibe on the user.
 
 ![](./img/color-palette.png)

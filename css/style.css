@@ -1,6 +1,6 @@
 /* Import fonts that are used on the page */
 @import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@600&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400&family=Montserrat:wght@200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400&display=swap');
 
 /*  adding styles */
 /* reseting margin and padding */
@@ -31,6 +31,12 @@ header {
     margin: 1vh 0.2vw;
     padding: 1%;
 }
+
+h1, h2, h3 {
+    font-family: 'Source Sans Pro', sans-serif;
+    color: #847f39;
+}
+
 /* spacing to the icon on the top left corner */
 .icon {
     max-height: 7vh;
@@ -99,31 +105,24 @@ section {
 .home-title {
     padding: 1vw;
     letter-spacing: 0.1vw;
-    color: #847f39;
-    text-shadow: 0 0 0.1vw #E5DD81;
+    font-size: 200%;
 }
 
 .about-title {
-    color: #847f39;
-    text-shadow: 0 0 0.1vw #E5DD81;
     margin: 0.78vw;
 }
 
-.resources-title {
-    color: #847f39;
-    padding: 2.1vh;
-    letter-spacing: 0.1vw;
+.home-title, .about-title {
+    text-shadow: 0 0 0.1vw #E5DD81;
 }
 
-.contact-title {
-    color: #847f39;
+.resources-title, .contact-title {
     padding: 2.1vh;
     letter-spacing: 0.1vw;
 }
 
 .section1 h3 {
     padding-bottom: 1vh;
-    font-family: 'Montserrat', sans-serif;
 }
 
 /* spinning yin yang styles */
@@ -279,6 +278,7 @@ section {
 .block-text h2 {
     text-align: center;
     font-size: 200%;
+    text-shadow: none;
 }
 
 .balanced-rocks {
@@ -312,6 +312,7 @@ th {
     font-size: larger;
     letter-spacing: 0.1vw;
     font-weight: 800;
+    color: #847f39;
 }
 /* styling the videos */
 .yt-videos {
