@@ -34,7 +34,7 @@ header {
 
 h1, h2, h3 {
     font-family: 'Source Sans Pro', sans-serif;
-    color: #847f39;
+    color: #3C533F;
 }
 
 /* spacing to the icon on the top left corner */
@@ -65,7 +65,7 @@ li {
 }
 
 a {
-    color: #847f39;
+    color: #3C533F;
     text-decoration: none;
     font-family: 'Source Sans Pro', sans-serif;
     padding: 0.2vw;
@@ -85,11 +85,11 @@ a {
 }
 /* bottom line when user hover the mouse */
 .nav-btn div span:hover {
-    border-bottom: 0.05vw solid #847F39;
+    border-bottom: 0.05vw solid #3C533F;
 }
 /* bottom line to indicate the current page */
 .active {
-    border-bottom: 0.05vw solid #847F39;
+    border-bottom: 0.05vw solid #3C533F;
 }
 
 /* styles for the titles of the pages */
@@ -279,6 +279,7 @@ section {
     text-align: center;
     font-size: 200%;
     text-shadow: none;
+    color: #d6f8a0;
 }
 
 .balanced-rocks {
@@ -312,7 +313,7 @@ th {
     font-size: larger;
     letter-spacing: 0.1vw;
     font-weight: 800;
-    color: #847f39;
+    color: #3C533F;
 }
 /* styling the videos */
 .yt-videos {
@@ -342,7 +343,7 @@ footer {
 footer h3 {
     margin: 2vh;
     float: right;
-    color: #847f39;
+    color: #3C533F;
 }
 
 footer nav ul {
@@ -387,21 +388,20 @@ input, textarea {
     font-family: 'Poppins', sans-serif;
     width: 15%;
     padding: 1%;
-    box-shadow: 0 0 0.1vw #847F39;
 }
 /* --------------------------------- */
 /* success page */
 
-.subscribed {
+.submitted {
     background: #d6f8a0;
     background: linear-gradient(0deg, #d6f8a0 5%, #ffffff 50%, #d6f8a0 95%);
     display: flex;
-    color: #847f39;
+    color: #3C533F;
     margin-top: auto;
     margin-bottom: 1%;
 }
 
-.subscribed div {
+.submitted div {
     margin: auto;
     font-size: 80%;
 }
