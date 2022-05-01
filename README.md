@@ -33,13 +33,13 @@
 
 Welcome fellow visitor,
 
-The Yin Yang Lifestyle Website with the purpose of bring the ancient principles of Yin and Yang to the modern life and provide the user with resources that can make his life more balanced, healthy and peaceful. 
+The Yin Yang Lifestyle Website has the purpose of bring the ancient principles of Yin and Yang to the modern life and provide the user with resources that can make his life more balanced, healthy and peaceful. 
 
 This website is made up of the following sections:
 
   1. Home/Introduction.
   2. Resources with Videos, Audios and Useful Links.
-  3. Contact with information about the creation and a form to sign up to the newsletter.
+  3. Contact with information about the creation and a form to submit an e-mail to the creator.
 
 The business goals for this website are:
 
@@ -49,7 +49,7 @@ The business goals for this website are:
 
 The target users are:
 
-  - People of any ages.
+  - People of all ages.
   - Interested in having a balanced, peaceful and healty lifestyle.
   - Interested in know more about new lifestyles.
 
@@ -66,7 +66,7 @@ The following features will be included in this release:
   - Header and menu bar, to navigate to various sections of the page.
   - Resources page with calming videos, sounds and links for external websites.
   - Information and recommendations for having a balanced lifestyle.
-  - Newsletter sign up form.
+  - E-mail contact form.
   - Links to social media pages.
 
 This website was crafted using only semantic HTML5 and CSS3. It was created to give birth to the first "Portfolio Project" to complete as part of the Diploma in Full Stack Software Development course at Code Institute in Dublin, Republic of Ireland. 
@@ -75,7 +75,7 @@ For better UI/UX, a modern and simple interface is used with a well defined navi
 
 The layout has a intuitive structure with the navigation bar at the top, footer at the bottom and the content on the area in between. The styling is consistent through all pages. Links are styled to be underlined when selected and when hovered upon, also the external links open in a new tab. The main navigation links also have a distinct color to catch the user's attention and to encourage to click them.
 
-The footer contains icons for Facebook, Instagram, Github and LinkedIn, which link as expected to the creators accounts on the respective platforms. The website is fully responsive and can be accessed on many different screens and compatiple with the most used browsers.
+The footer contains icons for Facebook, Instagram, Github and LinkedIn, which link as expected to the website's and the creator's accounts on the respective platforms. The website is fully responsive and can be accessed on many different screens and compatiple with the most used browsers.
 
 ## User stories
 
@@ -187,11 +187,11 @@ I have used several technologies that have enabled this design to work:
   - [Balsamiq](https://balsamiq.com/)
       - Used to create the wireframes for the project
   - [Coloors](https://coolors.co/)
-      - Used to create a colour palette for the design.
+      - Used to create a color palette for the design.
   - [Favicon.io](https://favicon.io/)
       - Used to create favicon's for my website.
   - [Color Contrast Accessibility Validator](https://color.a11y.com/)
-      - Allowed me to test the colour contrast of my webpage.
+      - Allowed me to test the color contrast of my webpage.
   - [W3C Markup Validation Service](https://validator.w3.org/) 
       - Used to validate all HTML code written and used in this webpage.
   - [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/#validate_by_input)
