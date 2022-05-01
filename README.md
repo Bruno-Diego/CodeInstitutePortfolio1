@@ -200,6 +200,10 @@ I have used several technologies that have enabled this design to work:
       - Used to submit a contact message with the HTML form.
   - [AmIResponsive](http://ami.responsivedesign.is/)
       - Used to generate repsonsive image used in README file.
+  - [GIMP](https://www.gimp.org/)
+    - Used to create the website's logo.
+  - [CodePen.io](https://codepen.io/)
+    - Used to research animations using only CSS.
 
 ## Code validation 
 
@@ -332,18 +336,23 @@ Please note it can take a while for this link to become fully active.
 The live link can be found [here](https://bruno-diego.github.io/CodeInstitutePortfolio1/).
 
 ## Credits 
-
+- Throughout the process of building this website, I have used various sources online to help me fix bugs & tackle problems, in addition to various modules to build the functionality of this website:
   - The text for the Home page and contact page was created by myself, except where it´s quoted, which has its own credits reference.
+  - Website logo created by myself using [GIMP](https://www.gimp.org/).
   - The icons in the footer were taken from [Font Awesome](https://fontawesome.com/).
   - The three images on the index page were taken from [Pexels](https://www.pexels.com/).
   - [Bamboo path](https://www.pexels.com/photo/boardwalk-between-trees-4925235/).
   - [Balanced rocks](https://www.pexels.com/photo/balance-macro-ocean-pebbles-235990/).
   - [Budda and sage incense](https://www.pexels.com/photo/stone-buddha-and-sage-incense-bundle-in-bowl-on-marble-shelf-4203071/).
+  - [CodePen.io](https://codepen.io/) for animations.
+  - [FormSubmit](https://formsubmit.co/).
+  - [Success animation](https://codepen.io/Konrud/pen/mwZXgV).
+  - [Spinning YinYang](https://codepen.io/AdamSSenniN/pen/xZpaow).
 
 ---
 
 ## Acknowledgements
 
-I would like to thank my course mentor Rohit Sharma for his support and guidance throughout the course of the project.
+I would like to thank my course mentor Rohit Sharma for his support and guidance throughout the course of the project and to our Code Institute Cohort Facilitator Kasia Bogucka for their support & feedback.
 
 ---
