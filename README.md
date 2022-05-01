@@ -209,8 +209,13 @@ I have used several technologies that have enabled this design to work:
 
 - HTML
   - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fbruno-diego.github.io%2FCodeInstitutePortfolio1%2F).
+
 - CSS
   - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fbruno-diego.github.io%2FCodeInstitutePortfolio1%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en).
+
+- [Color Contrast Accessibility Validator](https://color.a11y.com/)
+  - Allowed me to test the colour contrast of my webpage.
+  ![](./img/contrast.png)
 
 ## Test cases
   
