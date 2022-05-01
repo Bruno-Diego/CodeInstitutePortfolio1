@@ -152,7 +152,9 @@ The footer contains icons for Facebook, Instagram, Github and LinkedIn, which li
 
 ## Typography and color scheme
 
-
+- The fonts used on the website are `Source Sans Pro` and `Poppins` from [Google Fonts](https://fonts.google.com/). Both are sans serif typefaces and work well together. 
+  - Source® Sans Pro is a sans serif typeface intended to work well in user interfaces. [Source](https://fonts.google.com/specimen/Source+Sans+Pro?query=source#about).
+  - Poppins is a geometric sans-serif font that features an elegant monolinear design. The accurate geometric design of its characters makes it suitable for both headings and body text. [Source 1](https://fonts.google.com/specimen/Poppins?query=poppin#about). [Source 2](https://www.designbombs.com/best-google-fonts-how-to-use-them/).
 
 - The colors on the website is inspired on a Bamboo Palette created on [Coolors.co](https://coolors.co/) with multiple shades of greens to inspire a nature and peaceful vibe on the user.
 
