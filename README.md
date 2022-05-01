@@ -210,34 +210,53 @@ I have used several technologies that have enabled this design to work:
 
 ## Test cases
   
-  - As a **visitor**, I can intuitively navigate through the site so that I can view desired content.
+  1. **As a visitor, I can intuitively navigate through the site so that I can view desired content.**
+    - As soon as you enter the page you can easily see on the navbar that you have access to the Home, Resources and Contact page.**
+
   ![Navigation](./img/navigation.png)
   
-  - As a **visitor**, I can easily find useful information & tips for a better balanced life and inspiration to use the website's content.
+  2. **As a visitor, I can easily find useful information & tips for a better balanced life and inspiration to use the website's content.**
+    - You can imediately find on the first block of text, information of how to start using the principles of Yin-Yang to have a balanced life and information on how to navigate the website's content. 
+    
   ![Landing](./img/landing.png)
   
-  - As a **visitor** I can get key information about the website so that I can spend less time having to search for information.
+  3. **As a visitor I can get key information about the Yin-Yang concepts so that I can spend less time having to search for information.**
+    - Following along in the Home Page you can read the "What does Yin Yang means and how can you use it to have a better life!" with objective and direct information about the concepts.
+
   ![Card](./img/card.png)
   
-  - As a **visitor** I can find links at the footer that open to social media websites on a new tab.
+  4. **As a visitor I can find links at the footer that open to social media websites on a new tab.**
+    - All social media icons can be found in the footer of the page, opening on a new tab and linked directly to those of the author and the page itself.
+
   ![Footer](./img/footer.png)
   
-  - As a **visitor** I can find calming videos to watch for momments of relaxing.
+  5. **As a visitor I can find calming videos to watch for momments of relaxing.**
+    - As soon as you enter the Resources page you can easily find a box of inspiring and relaxing videos to watch and have a moment for yourself.
   ![Videos](./img/videos.png)
   
-  - As a **visitor** I can find calming sounds to listen while doing daily tasks.
+  6. **As a visitor I can find calming sounds to listen while doing daily tasks.**
+    - Audios with calming songs are immediately found on the second box on the Resources page so you can listen doing daily tasks, meditating or even just to enjoy. 
+
   ![Audios](./img/audio.png)
   
-  - As a **visitor** I can access useful resources to deep dive the website's subject.
+  7. **As a visitor I can access useful resources to deep dive the website's subject.**
+    - Useful resources are easily found on the table of contents of the Resources Page with external links that can lead you to even more information and specificities about the YinYang doctrine.
+
   ![Links](./img/links.png)
   
-  - As a **visitor** I can easily find information about the creator and the technologies of this website.
+  8. **As a visitor I can easily find information about the creator and the technologies of this website.**
+    - On the Contact page you are presented with all the information you may need about the creator and the technologies used on the website.
+
   ![Contact](./img/contact.png)
   
-  - As a **visitor** I can contact the creator via e-mail with the contact form.
+  9. **As a visitor I can contact the creator via e-mail with the contact form.**
+    - The contac page contains a form that you can fill in with your name, e-mail and a message that is sent straight to the e-mail of the website's creator.
+
   ![Form](./img/form.png)
   
-  - As a **visitor** I am notified about success/fail submission of the e-mail message.
+  10. **As a visitor I am notified about success/fail submission of the e-mail message.**
+    - As soon as you submit your message by clicking the Send button, you are redirected to a Success Page, confirming that the submission was successful.
+
   ![Success](./img/success.png)
 
 ## Fixed bugs
@@ -253,7 +272,7 @@ I have used several technologies that have enabled this design to work:
 
 ## Supported Screens and Browsers
 
-- The website is fully responsive and can be accessed smartphones (width of ###), tablets (width of ###) and monitors of any size.
+- The website is fully responsive and can be accessed smartphones (width of 600px), tablets (width of 820px) and monitors of any size.
 
 - The website was tested and is supported on the browsers Google Chrome, Mozilla Firefox, Microsoft Edge, Opera and Brave.
 
