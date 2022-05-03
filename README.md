@@ -9,6 +9,7 @@
     - [**Purpose of the project**](#purpose-of-the-project)
     - [**User stories**](#user-stories)
     - [**Features**](#features)
+    - [**Future features**](#future-features)
 
 2. [**Typography and color scheme**](#typography-and-color-scheme)
 
@@ -102,7 +103,6 @@ The footer contains icons for Facebook, Instagram, Github and LinkedIn, which li
 ### The Landing Page Section
 
   - The Landing Page includes a CSS-only spinning Yin-Yang and a presentation text introducing the user to the Yin Yang Lifestyle project and an image of a bamboo forrest to bring the unconsious idea of nature to the user experience.
-  - The credits for the spinning Yin-Yang animation goes to @AdamSSenniN and can be viewed in [this link](https://codepen.io/AdamSSenniN/pen/xZpaow).
 
 ### Cards Section
   
@@ -143,9 +143,13 @@ The footer contains icons for Facebook, Instagram, Github and LinkedIn, which li
 
 ### The Success Page
 
-  - The button of the contact form leads the user to the success page confirming that the e-mail with the message was successfully sent.
-  - The credits for the animation goes to the work done in Codepen.io by Konstantin Rouda
- (@Konrud) and can be viewed on [this link](https://codepen.io/Konrud/pen/mwZXgV). 
+  - The button of the contact form leads the user to the success page confirming that the e-mail with the message was successfully sent. 
+
+### Future features
+  
+  - For the future deployments to the website, I would like to implement an newsletter to for user subscription;
+  - Besides, I would like to implement on the future a Blog Page with news and posts related to the website's subject;
+  - I also would like to create a section for users' comments and feedbacks.
 
 ## Typography and color scheme
 
@@ -221,12 +225,19 @@ I have used several technologies that have enabled this design to work:
 ## Test cases
   
   1. **As a visitor, I can intuitively navigate through the site so that I can view desired content.**
-    - As soon as you enter the page you can easily see on the navbar that you have access to the Home, Resources and Contact page.**
+    - As soon as you enter the page you can easily see on the navbar that you have access to the Home, Resources and Contact page.
+      - The `HOME` page is indicated as selected by the bottom border beneath it;
+      - The user hover the mouse over the links `RESOURSES` and `CONTACT` and a bottom border is displayed;
+      - The bottom border is not displayed if the user move the mouse out of the link area;
+      - The user can click the links `HOME`, `RESOURSES` and `CONTACT` to be redirected to the respective page;
+      - The name of the page clicked by the user become selected by the bottom border beneath it.
 
   ![Navigation](./assets/docs/navigation.png)
   
   2. **As a visitor, I can easily find useful information & tips for a better balanced life and inspiration to use the website's content.**
     - You can imediately find on the first block of text, information of how to start using the principles of Yin-Yang to have a balanced life and information on how to navigate the website's content. 
+    - When the website is first loaded, the image of a bamboo path is immediate displayed to the user with a animation that re-scale the image causing a focus effect;
+    - The effect is reproduced when the page is refreshed.
     
   ![Landing](./assets/docs/landing.png)
   
@@ -237,20 +248,43 @@ I have used several technologies that have enabled this design to work:
   
   4. **As a visitor I can find links at the footer that open to social media websites on a new tab.**
     - All social media icons can be found in the footer of the page, opening on a new tab and linked directly to those of the author and the page itself.
+      - You can click the link `Facebook` and a new tab will open to the YinYang Website's Facebook;
+      - You can click the links `Instagram`, `LinkedIn` and `GitHub` and a new tab will open for each link to the author's respective page;
 
   ![Footer](./assets/docs/footer.png)
   
   5. **As a visitor I can find calming videos to watch for momments of relaxing.**
     - As soon as you enter the Resources page you can easily find a box of inspiring and relaxing videos to watch and have a moment for yourself.
+      - The user can click the `Play` button found in the center of any of the videos frames;
+      - The video starts playing and the video controls are shown with the buttons `play/pause`, `volume`, `settings`, `Youtube` and `Full Screen`; The `duration` and the `progress bar` are also displayed;
+      - The user clicks the `play/pause` button and the video pause/start again;
+      - The user hover the mouse on the `volume` button and a volume bar is shown;
+      - The user slides the volume bar left or right to increase or decrease the volume respectively;
+      - The user click the `volume` button and the video mute/unmute itself;
+      - The user click the `settings` button and the options Notes, Playback Speed and Quality are displayed;
+      - The user can click `Youtube` button and a new tab will open to play the video on You Tube page
+      - The user watch the videos as long as he wants;
+      - If the user prefer, he can click `Watch on Youtube` button before clicking the `Play` button found in the center of the video frame and a new tab will open to play the video on You Tube page.
+
   ![Videos](./assets/docs/videos.png)
   
   6. **As a visitor I can find calming sounds to listen while doing daily tasks.**
     - Audios with calming songs are immediately found on the second box on the Resources page so you can listen doing daily tasks, meditating or even just to enjoy. 
+      - The user click the `Play` button;
+      - The audio starts playing;
+      - The progress bar starts increasing accordling to the audio;
+      - The user hover the mouse on the `volume` button and a volume bar is shown;
+      - The user slides the volume bar right or left to increase or decrease the volume respectively;
+      - The user click the `volume` button and the video mute/unmute itself;
+      - The user click on the three dots on the right hand side and a window is shown with the options `Download` and `Playback speed`;
+      - The user listen to the sounds as long as he wants.
 
   ![Audios](./assets/docs/audio.png)
   
   7. **As a visitor I can access useful resources to deep dive the website's subject.**
     - Useful resources are easily found on the table of contents of the Resources Page with external links that can lead you to even more information and specificities about the YinYang doctrine.
+      - The user click on the link;
+      - A new tab will open displaying the external resource;
 
   ![Links](./assets/docs/links.png)
   
@@ -261,6 +295,9 @@ I have used several technologies that have enabled this design to work:
   
   9. **As a visitor I can contact the creator via e-mail with the contact form.**
     - The contac page contains a form that you can fill in with your name, e-mail and a message that is sent straight to the e-mail of the website's creator.
+      - If the user click the `Submit e-mail!` Button...
+      - The user fill the `Name` field with his name;
+
 
   ![Form](./assets/docs/form.png)
   
@@ -352,8 +389,9 @@ The live link can be found [here](https://bruno-diego.github.io/CodeInstitutePor
   - [Budda and sage incense](https://www.pexels.com/photo/stone-buddha-and-sage-incense-bundle-in-bowl-on-marble-shelf-4203071/).
   - [CodePen.io](https://codepen.io/) for animations.
   - [FormSubmit](https://formsubmit.co/).
-  - [Success animation](https://codepen.io/Konrud/pen/mwZXgV).
-  - [Spinning YinYang](https://codepen.io/AdamSSenniN/pen/xZpaow).
+  - The credits for the Success animation goes to the work done in Codepen.io by Konstantin Rouda
+ (@Konrud) and can be viewed on [this link](https://codepen.io/Konrud/pen/mwZXgV).
+  - The credits for the spinning Yin-Yang animation goes to @AdamSSenniN and can be viewed in [this link](https://codepen.io/AdamSSenniN/pen/xZpaow).
 
 ---
 
