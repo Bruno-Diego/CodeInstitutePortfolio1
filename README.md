@@ -145,10 +145,7 @@ The footer contains icons for Facebook, Instagram, Github and LinkedIn, which li
 
   - The button of the contact form leads the user to the success page confirming that the e-mail with the message was successfully sent.
   - The credits for the animation goes to the work done in Codepen.io by Konstantin Rouda
- (@Konrud) and can be viewed on [this link](https://codepen.io/Konrud/pen/mwZXgV).
-
- __Image to be UPDATED__
-  
+ (@Konrud) and can be viewed on [this link](https://codepen.io/Konrud/pen/mwZXgV). 
 
 ## Typography and color scheme
 
