@@ -51,8 +51,8 @@ The business goals for this website are:
 The target users are:
 
   - People of all ages.
-  - Interested in having a balanced, peaceful and healty lifestyle.
-  - Interested in know more about new lifestyles.
+  - Interested in having a balanced, peaceful and healthy lifestyle.
+  - Interested in knowing more about new lifestyles.
 
 What these users would be looking for:
 
