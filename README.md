@@ -295,14 +295,21 @@ I have used several technologies that have enabled this design to work:
   
   9. **As a visitor I can contact the creator via e-mail with the contact form.**
     - The contac page contains a form that you can fill in with your name, e-mail and a message that is sent straight to the e-mail of the website's creator.
-      - If the user click the `Submit e-mail!` Button...
+      - If the user click the `Submit e-mail!` Button an error message will be displayed on the `Name` field as this is a required field;
       - The user fill the `Name` field with his name;
-
+      - If the user click the `Submit e-mail!` Button an error message will be displayed on the `E-mail` field as this is a required field;
+      - The user fill the `E-mail` field with his contact e-mail;
+      - If the user click the `Submit e-mail!` Button an error message will be displayed on the `Message` field as this is a required field;
+      - The user fill the `Message` field with his message directed to the website's creator;
+      - If the user click the `Submit e-mail!` Button and no error should appear;
+      - The user is redirected to the success page confirming the submission of the form.
 
   ![Form](./assets/docs/form.png)
   
   10. **As a visitor I am notified about success/fail submission of the e-mail message.**
-    - As soon as you submit your message by clicking the Send button, you are redirected to a Success Page, confirming that the submission was successful.
+    - As soon as you submit your message by clicking the `Submit e-mail!` button, you are redirected to a Success Page, confirming that the submission was successful.
+      - When the page is loaded the user can immediately see a message of confirmation;
+      - An animated success image is shown on the page with a pop up effect animation;
 
   ![Success](./assets/docs/success.png)
 
