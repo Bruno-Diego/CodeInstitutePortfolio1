@@ -225,6 +225,7 @@ I have used several technologies that have enabled this design to work:
 ## Test cases
   
   1. **As a visitor, I can intuitively navigate through the site so that I can view desired content.**
+
     - As soon as you enter the page you can easily see on the navbar that you have access to the Home, Resources and Contact page.
       - The `HOME` page is indicated as selected by the bottom border beneath it;
       - The user hover the mouse over the links `RESOURSES` and `CONTACT` and a bottom border is displayed;
@@ -235,13 +236,15 @@ I have used several technologies that have enabled this design to work:
   ![Navigation](./assets/docs/navigation.png)
   
   2. **As a visitor, I can easily find useful information & tips for a better balanced life and inspiration to use the website's content.**
+
     - You can imediately find on the first block of text, information of how to start using the principles of Yin-Yang to have a balanced life and information on how to navigate the website's content. 
-    - When the website is first loaded, the image of a bamboo path is immediate displayed to the user with a animation that re-scale the image causing a focus effect;
-    - The effect is reproduced when the page is refreshed.
+      - When the website is first loaded, the image of a bamboo path is immediate displayed to the user with a animation that re-scale the image causing a focus effect;
+      - The effect is reproduced when the page is refreshed.
     
   ![Landing](./assets/docs/landing.png)
   
   3. **As a visitor I can get key information about the Yin-Yang concepts so that I can spend less time having to search for information.**
+
     - Following along in the Home Page you can read the "What does Yin Yang means and how can you use it to have a better life!" with objective and direct information about the concepts.
 
   ![Card](./assets/docs/card.png)
@@ -254,6 +257,7 @@ I have used several technologies that have enabled this design to work:
   ![Footer](./assets/docs/footer.png)
   
   5. **As a visitor I can find calming videos to watch for momments of relaxing.**
+
     - As soon as you enter the Resources page you can easily find a box of inspiring and relaxing videos to watch and have a moment for yourself.
       - The user can click the `Play` button found in the center of any of the videos frames;
       - The video starts playing and the video controls are shown with the buttons `play/pause`, `volume`, `settings`, `Youtube` and `Full Screen`; The `duration` and the `progress bar` are also displayed;
@@ -269,6 +273,7 @@ I have used several technologies that have enabled this design to work:
   ![Videos](./assets/docs/videos.png)
   
   6. **As a visitor I can find calming sounds to listen while doing daily tasks.**
+
     - Audios with calming songs are immediately found on the second box on the Resources page so you can listen doing daily tasks, meditating or even just to enjoy. 
       - The user click the `Play` button;
       - The audio starts playing;
@@ -282,6 +287,7 @@ I have used several technologies that have enabled this design to work:
   ![Audios](./assets/docs/audio.png)
   
   7. **As a visitor I can access useful resources to deep dive the website's subject.**
+
     - Useful resources are easily found on the table of contents of the Resources Page with external links that can lead you to even more information and specificities about the YinYang doctrine.
       - The user click on the link;
       - A new tab will open displaying the external resource;
@@ -289,11 +295,13 @@ I have used several technologies that have enabled this design to work:
   ![Links](./assets/docs/links.png)
   
   8. **As a visitor I can easily find information about the creator and the technologies of this website.**
+
     - On the Contact page you are presented with all the information you may need about the creator and the technologies used on the website.
 
   ![Contact](./assets/docs/contact.png)
   
   9. **As a visitor I can contact the creator via e-mail with the contact form.**
+
     - The contac page contains a form that you can fill in with your name, e-mail and a message that is sent straight to the e-mail of the website's creator.
       - If the user click the `Submit e-mail!` Button an error message will be displayed on the `Name` field as this is a required field;
       - The user fill the `Name` field with his name;
@@ -307,6 +315,7 @@ I have used several technologies that have enabled this design to work:
   ![Form](./assets/docs/form.png)
   
   10. **As a visitor I am notified about success/fail submission of the e-mail message.**
+  
     - As soon as you submit your message by clicking the `Submit e-mail!` button, you are redirected to a Success Page, confirming that the submission was successful.
       - When the page is loaded the user can immediately see a message of confirmation;
       - An animated success image is shown on the page with a pop up effect animation;
