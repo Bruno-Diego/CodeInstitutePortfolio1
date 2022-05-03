@@ -60,7 +60,7 @@ What these users would be looking for:
   - Calming videos and audios watch/listen while doing daily tasks.
   - Helpful guidance to have a balanced lifestyle.
 
-The user interested on the presented ideas can start on the home page with the presentation text explaining the purpose of the website and information about it. Users that wish to have a deeper understanding about the subject can check the resources page that is filled with videos and audios to watch and listen on meditating or relaxing momments. It´s also possible to find links that lead to different websites with valued materials related to the idea presented. At last, there´s a Contact page with the specifications about the website and information of contact with the creator.
+The user interested in the presented ideas can start on the home page with the presentation text explaining the purpose of the website and information about it. Users that wish to have a deeper understanding about the subject can check the resources page that is filled with videos and audios to watch and listen on meditating or relaxing momments. It´s also possible to find links that lead to different websites with valued materials related to the idea presented. At last, there´s a Contact page with the specifications about the website and information of contact with the creator.
 
 The following features will be included in this release:
 
