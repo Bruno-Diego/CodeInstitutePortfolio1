@@ -368,10 +368,10 @@ footer {
     box-shadow: 0.4vh 0.4vh 0.4vh 0.4vh #23260c;
 }
 
+
 footer h3 {
     margin: 2vh;
     float: right;
-    color: #3C533F;
 }
 
 footer nav ul {
@@ -424,6 +424,8 @@ textarea {
 /* --------------------------------- */
 /* success page */
 
+
+
 .submitted {
     background: #d6f8a0;
     background: linear-gradient(0deg, #d6f8a0 5%, #ffffff 50%, #d6f8a0 95%);
@@ -436,6 +438,11 @@ textarea {
 .submitted div {
     margin: auto;
     font-size: 80%;
+}
+
+.success {
+    height: 80vh;
+    margin: 0;
 }
 
 /* check sign styles for success on submiting an e-mail*/
