@@ -163,7 +163,7 @@ This website was first planned from scratch on Balsamic Wireframes with the lice
 
 Please note the actual website has changed slightly from these wireframes.
 
-## Tecnologies
+## Technologies Used
 
 I have used several technologies that have enabled this design to work:
 
