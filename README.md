@@ -1,6 +1,6 @@
 # Yin-Yang Website
 
-![](./img/responsiveness.png)
+![](./assets/docs/responsiveness.png)
 
 [Access the Live YinYang Website here](https://bruno-diego.github.io/CodeInstitutePortfolio1/) (Ctrl + Click to open on a new tab)
 
@@ -158,7 +158,7 @@ The footer contains icons for Facebook, Instagram, Github and LinkedIn, which li
 
 - The colors on the website is inspired on a Bamboo Palette created on [Coolors.co](https://coolors.co/) with multiple shades of greens to inspire a nature and peaceful vibe on the user.
 
-![](./img/color-palette.png)
+![](./assets/docs/color-palette.png)
 
 ## Wireframes
 
@@ -215,69 +215,69 @@ I have used several technologies that have enabled this design to work:
 
 - [Lighthouse](https://developers.google.com/web/tools/lighthouse)
   - Lighthouse is a feature of Google Chrome developer tools and is used to assess the performance of the website and its features. I achieved a high-performance score, as you can see below:
-  ![](./img/lighthouse.png)
+  ![](./assets/docs/lighthouse.png)
 
 - [Color Contrast Accessibility Validator](https://color.a11y.com/)
   - Allowed me to test the colour contrast of my webpage.
-  ![](./img/contrast.png)
+  ![](./assets/docs/contrast.png)
 
 ## Test cases
   
   1. **As a visitor, I can intuitively navigate through the site so that I can view desired content.**
     - As soon as you enter the page you can easily see on the navbar that you have access to the Home, Resources and Contact page.**
 
-  ![Navigation](./img/navigation.png)
+  ![Navigation](./assets/docs/navigation.png)
   
   2. **As a visitor, I can easily find useful information & tips for a better balanced life and inspiration to use the website's content.**
     - You can imediately find on the first block of text, information of how to start using the principles of Yin-Yang to have a balanced life and information on how to navigate the website's content. 
     
-  ![Landing](./img/landing.png)
+  ![Landing](./assets/docs/landing.png)
   
   3. **As a visitor I can get key information about the Yin-Yang concepts so that I can spend less time having to search for information.**
     - Following along in the Home Page you can read the "What does Yin Yang means and how can you use it to have a better life!" with objective and direct information about the concepts.
 
-  ![Card](./img/card.png)
+  ![Card](./assets/docs/card.png)
   
   4. **As a visitor I can find links at the footer that open to social media websites on a new tab.**
     - All social media icons can be found in the footer of the page, opening on a new tab and linked directly to those of the author and the page itself.
 
-  ![Footer](./img/footer.png)
+  ![Footer](./assets/docs/footer.png)
   
   5. **As a visitor I can find calming videos to watch for momments of relaxing.**
     - As soon as you enter the Resources page you can easily find a box of inspiring and relaxing videos to watch and have a moment for yourself.
-  ![Videos](./img/videos.png)
+  ![Videos](./assets/docs/videos.png)
   
   6. **As a visitor I can find calming sounds to listen while doing daily tasks.**
     - Audios with calming songs are immediately found on the second box on the Resources page so you can listen doing daily tasks, meditating or even just to enjoy. 
 
-  ![Audios](./img/audio.png)
+  ![Audios](./assets/docs/audio.png)
   
   7. **As a visitor I can access useful resources to deep dive the website's subject.**
     - Useful resources are easily found on the table of contents of the Resources Page with external links that can lead you to even more information and specificities about the YinYang doctrine.
 
-  ![Links](./img/links.png)
+  ![Links](./assets/docs/links.png)
   
   8. **As a visitor I can easily find information about the creator and the technologies of this website.**
     - On the Contact page you are presented with all the information you may need about the creator and the technologies used on the website.
 
-  ![Contact](./img/contact.png)
+  ![Contact](./assets/docs/contact.png)
   
   9. **As a visitor I can contact the creator via e-mail with the contact form.**
     - The contac page contains a form that you can fill in with your name, e-mail and a message that is sent straight to the e-mail of the website's creator.
 
-  ![Form](./img/form.png)
+  ![Form](./assets/docs/form.png)
   
   10. **As a visitor I am notified about success/fail submission of the e-mail message.**
     - As soon as you submit your message by clicking the Send button, you are redirected to a Success Page, confirming that the submission was successful.
 
-  ![Success](./img/success.png)
+  ![Success](./assets/docs/success.png)
 
 ## Fixed bugs
 
   - A bug was found on resizing the buddha and the rocks image on the Home page, as can be see in the images below:
 
-  ![](./img/bug1.png)
-  ![](./img/bug2.png)
+  ![](./assets/docs/bug1.png)
+  ![](./assets/docs/bug2.png)
  
   - The root cause found was the widths/heights sizes of the images, that was set to be on pixels.
   - To fix this issue, the CSS file was changed on the classes `.block-text`, `budda-face` and `balanced-rocks`.
@@ -338,7 +338,7 @@ Cloning your repository will allow you to download a local version of the reposi
     5. In the source section, select branch `Master` and save
     6. The page is then given a site URL which you will see above the source section, it will look like the following: 
 
-  ![](docs/img/git-pages.png)
+  ![](docs/assets/docs/git-pages.png)
 
 Please note it can take a while for this link to become fully active. 
 
