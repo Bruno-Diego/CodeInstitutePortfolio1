@@ -417,8 +417,10 @@ textarea {
 
 .button {
     font-family: 'Poppins', sans-serif;
-    width: 15%;
+    width: 25%;
     padding: 1%;
+    white-space: normal;
+    word-wrap: break-word;
 }
 
 /* --------------------------------- */
@@ -566,6 +568,9 @@ textarea {
     body {
         height: fit-content;
     }
+    input,
+    textarea {
+    width: 70%;
 }
 
 /* Media queries for devices with 600px of screen width size and lower, like most smartphones */
@@ -643,6 +648,10 @@ textarea {
     .yt-videos iframe {
         width: 100%;
     }
+    .button {
+        width: 50%;
+    }
+}
 
 }
 
