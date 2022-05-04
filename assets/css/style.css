@@ -130,6 +130,7 @@ section {
     padding: 2.1vh;
     letter-spacing: 0.1vw;
 }
+
 .home-title,
 .resources-title,
 .contact-title {
@@ -576,90 +577,92 @@ textarea {
     body {
         height: fit-content;
     }
+
     input,
     textarea {
-    width: 70%;
-}
-
-/* Media queries for devices with 600px of screen width size and lower, like most smartphones */
-@media screen and (max-width: 600px) {
-    .big-icon {
-        width: 30px;
-        height: 30px;
-        padding: 10px;
-        background: #000000;
-        border-radius: 100%;
-        position: relative;
-        animation: rotate 40000s infinite;
-        margin: 3vh;
-        float: left;
+        width: 70%;
     }
 
-    .big-icon .white-circle {
-        width: 15px;
-        height: 15px;
-        background: #ffffff;
-        border-radius: 100%;
-    }
+    /* Media queries for devices with 600px of screen width size and lower, like most smartphones */
+    @media screen and (max-width: 600px) {
+        .big-icon {
+            width: 30px;
+            height: 30px;
+            padding: 10px;
+            background: #000000;
+            border-radius: 100%;
+            position: relative;
+            animation: rotate 40000s infinite;
+            margin: 3vh;
+            float: left;
+        }
 
-    .big-icon .black-circle {
-        width: 15px;
-        height: 15px;
-        background: #000000;
-        border-radius: 100%;
-        margin-top: -19.4px;
-        z-index: auto;
-        position: absolute;
-        margin-left: 7.5px;
+        .big-icon .white-circle {
+            width: 15px;
+            height: 15px;
+            background: #ffffff;
+            border-radius: 100%;
+        }
 
-    }
+        .big-icon .black-circle {
+            width: 15px;
+            height: 15px;
+            background: #000000;
+            border-radius: 100%;
+            margin-top: -19.4px;
+            z-index: auto;
+            position: absolute;
+            margin-left: 7.5px;
 
-    .white-tail {
-        width: 15px;
-        height: 30px;
-        background: #ffffff;
-        display: inline-block;
-        margin-top: -15px;
-        border-top-right-radius: 15px;
-        border-bottom-right-radius: 15px;
-    }
+        }
 
-    .black-eye {
-        width: 5px;
-        height: 5px;
-        background: #000000;
-        border-radius: 100%;
-        position: absolute;
-        margin-top: -29px;
-        margin-left: 12px;
-    }
+        .white-tail {
+            width: 15px;
+            height: 30px;
+            background: #ffffff;
+            display: inline-block;
+            margin-top: -15px;
+            border-top-right-radius: 15px;
+            border-bottom-right-radius: 15px;
+        }
 
-    .white-eye {
-        width: 5px;
-        height: 5px;
-        background: #ffffff;
-        border-radius: 100%;
-        position: absolute;
-        margin-top: -14px;
-        margin-left: 12px;
-    }
+        .black-eye {
+            width: 5px;
+            height: 5px;
+            background: #000000;
+            border-radius: 100%;
+            position: absolute;
+            margin-top: -29px;
+            margin-left: 12px;
+        }
 
-    .white-circle {
-        position: relative;
-        left: 8px;
-    }
+        .white-eye {
+            width: 5px;
+            height: 5px;
+            background: #ffffff;
+            border-radius: 100%;
+            position: absolute;
+            margin-top: -14px;
+            margin-left: 12px;
+        }
 
-    section {
-        margin-top: auto;
-    }
+        .white-circle {
+            position: relative;
+            left: 8px;
+        }
 
-    .yt-videos iframe {
-        width: 100%;
+        section {
+            margin-top: auto;
+        }
+
+        .yt-videos iframe {
+            width: 100%;
+        }
+
+        .button {
+            width: 50%;
+        }
     }
-    .button {
-        width: 50%;
-    }
-}
 
 }
 
