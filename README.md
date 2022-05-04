@@ -60,7 +60,7 @@ What these users would be looking for:
   - Calming videos and audios watch/listen while doing daily tasks.
   - Helpful guidance to have a balanced lifestyle.
 
-The user interested in the presented ideas can start on the home page with the presentation text explaining the purpose of the website and information about it. Users that wish to have a deeper understanding about the subject can check the resources page that is filled with videos and audios to watch and listen on meditating or relaxing momments. It´s also possible to find links that lead to different websites with valued materials related to the idea presented. At last, there´s a Contact page with the specifications about the website and information of contact with the creator.
+The user interested in the presented ideas can start on the home page with the presentation text explaining the purpose of the website and information about it. Users that wish to have a deeper understanding of the subject can check that the resources page is filled with videos and audios to watch and listen to meditating or relaxing moments. It´s also possible to find links that lead to different websites with valued materials related to the idea presented. At last, there´s a Contact page with the specifications about the website and information of contact with the creator.
 
 The following features will be included in this release:
 
@@ -72,45 +72,45 @@ The following features will be included in this release:
 
 This website was crafted using only semantic HTML5 and CSS3. It was created to give birth to the first "Portfolio Project" to complete as part of the Diploma in Full Stack Software Development course at Code Institute in Dublin, Republic of Ireland. 
 
-For better UI/UX, a modern and simple interface is used with a well defined navigation bar, spaced letters with a good contrast for a cool reading and colors based on a bamboo pallette uniformized in the entire website.
+For better UI/UX, a modern and simple interface is used with a well-defined navigation bar, spaced letters with good contrast for a cool reading and colors based on a bamboo pallette uniformized in the entire website.
 
-The layout has a intuitive structure with the navigation bar at the top, footer at the bottom and the content on the area in between. The styling is consistent through all pages. Links are styled to be underlined when selected and when hovered upon, also the external links open in a new tab. The main navigation links also have a distinct color to catch the user's attention and to encourage to click them.
+The layout has an intuitive structure with the navigation bar at the top, the footer at the bottom and the content in the area in between. The styling is consistent through all pages. Links are styled to be underlined when selected and when hovered upon, also the external links open in a new tab. The main navigation links also have a distinct color to catch the user's attention and encourage them to click them.
 
-The footer contains icons for Facebook, Instagram, Github and LinkedIn, which link as expected to the website's and the creator's accounts on the respective platforms. The website is fully responsive and can be accessed on many different screens and compatiple with the most used browsers.
+The footer contains icons for Facebook, Instagram, Github and LinkedIn, which link as expected to the website's and the creator's accounts on the respective platforms. The website is fully responsive and can be accessed on many different screens and is compatible with the most used browsers.
 
 ## User stories
 
   - As a **visitor**, I can intuitively navigate through the site so that I can view desired content.
-  - As a **visitor**, I can easily find useful information & tips for a better balanced life and inspiration to use the website's content.
-  - As a **visitor** I can find a navigation bar at the top and footer at the bottom so that I can see what content there is on the website.
+  - As a **visitor**, I can easily find useful information & tips for a better-balanced life and inspiration to use the website's content.
+  - As a **visitor** I can find a navigation bar at the top and a footer at the bottom so that I can see what content there is on the website.
   - As a **visitor** I can find links at the footer that open to social media websites on a new tab.
   - As a **visitor** I can get key information about the website so that I can spend less time having to search for information.
-  - As a **visitor** I can find calming videos to watch for momments of relaxing.
-  - As a **visitor** I can find calming sounds to listen while doing daily tasks.
-  - As a **visitor** I can access useful resources to deep dive the website's subject.
+  - As a **visitor** I can find calming videos to watch for moments of relaxation.
+  - As a **visitor** I can find calming sounds to listen to while doing daily tasks.
+  - As a **visitor** I can access useful resources to deep dive into the website's subject.
   - As a **visitor** I can easily find information about the creator and the technologies of this website.
   - As a **visitor** I can contact the creator via e-mail with the contact form.
-  - As a **visitor** I am notified about success/fail submission of the e-mail message.
+  - As a **visitor** I am notified about the success/fail submission of the e-mail message.
   - As a **visitor** I can access the website on both mobile and desktop so that I can view the information regardless of my location.
 
 ## Features
 
 ### Navigation Bar
 
-  - Featured on all four pages, the full responsive navigation bar includes links to the Home page, Resources and Contact page and is identical in each page to allow for easy navigation.
-  - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button.
+  - Featured on all four pages, the full responsive navigation bar includes links to the Home page, Resources and Contact page and is identical on each page to allow for easy navigation.
+  - This section will allow the user to easily navigate from page to page across all devices without having to revert to the previous page via the ‘back’ button.
 
 ### The Landing Page Section
 
-  - The Landing Page includes a CSS-only spinning Yin-Yang and a presentation text introducing the user to the Yin Yang Lifestyle project and an image of a bamboo forrest to bring the unconsious idea of nature to the user experience.
+  - The Landing Page includes a CSS-only spinning Yin-Yang and a presentation text introducing the user to the Yin Yang Lifestyle project and an image of a bamboo forest to bring the unconscious idea of nature to the user experience.
 
 ### Cards Section
   
-  - The cards section will allow the user to see the benefits of joining the YinYang Lifestyle, as well as understanding more about a balanced life overall.
+  - The cards section will allow the user to see the benefits of joining the YinYang Lifestyle, as well as understand more about a balanced life overall.
 
-  - The user will see the value of adopting this idea and should encourage the user to consider to have abalanced life.
+  - The user will see the value of adopting this idea and should encourage the user to consider having a balanced life.
 
-  - At the bottom of the section an advertisement was created to inform the users that this project is not a religion or any form of councelling.
+  - At the bottom of the section, an advertisement was created to inform the users that this project is not a religion or any form of counseling.
 
 ### The Footer
 
@@ -119,7 +119,7 @@ The footer contains icons for Facebook, Instagram, Github and LinkedIn, which li
 
 ### Videos
 
-  - The videos in resources page will provide the user with calming and relaxing videos from YouTube's Creative Commons.
+  - The videos on the resources page will provide the user with calming and relaxing videos from YouTube's Creative Commons.
 
 ### Audios
 
@@ -127,29 +127,29 @@ The footer contains icons for Facebook, Instagram, Github and LinkedIn, which li
 
 ### Links
 
-  - The user who wants to learn more and seek other resources has a list of links avalable to search more ways to have a balanced life.
+  - The user who wants to learn more and seek other resources has a list of links available to search for more ways to have a balanced life.
 
 ### The Ending Text
 
-  - At the contact page the user can find a closure text with information about the creator, the purpose of the website and techinical especifications.
+  - On the contact page the user can find a closure text with information about the creator, the purpose of the website and technical specifications.
 
   - This text provides the user with an e-mail to contact the creator.
 
 ### The Contact Form
 
-  - The user who wants to contact the creator can send a message to the e-mail provided or fill the form at the bottom of the contact page.
-  - This contact form was created with didactical purposes with the objective to allow the user to get in touch with the content creator submiting his name and e-mail.
-  - This is a fully functional feature thanks to the [FormSubmit website](https://formsubmit.co/) that alows the page to send the user's message to the creator e-mail only using HTML.
+  - The user who wants to contact the creator can send a message to the e-mail provided or fill out the form at the bottom of the contact page.
+  - This contact form was created with didactical purposes to allow the user to get in touch with the content creator by submitting his name and e-mail.
+  - This is a fully functional feature thanks to the [FormSubmit website](https://formsubmit.co/) that allows the page to send the user's message to the creator e-mail only using HTML.
 
 ### The Success Page
 
-  - The button of the contact form leads the user to the success page confirming that the e-mail with the message was successfully sent. 
+  - The button on the contact form leads the user to the success page confirming that the e-mail with the message was successfully sent. 
 
 ### Future features
   
-  - For the future deployments to the website, I would like to implement an newsletter to for user subscription;
+  - For the future deployments to the website, I would like to implement a newsletter for user subscription;
   - Besides, I would like to implement on the future a Blog Page with news and posts related to the website's subject;
-  - I also would like to create a section for users' comments and feedbacks.
+  - I also would like to create a section for users' comments and feedback.
 
 ## Typography and color scheme
 
@@ -157,13 +157,13 @@ The footer contains icons for Facebook, Instagram, Github and LinkedIn, which li
   - Source® Sans Pro is a sans serif typeface intended to work well in user interfaces. [Source](https://fonts.google.com/specimen/Source+Sans+Pro?query=source#about).
   - Poppins is a geometric sans-serif font that features an elegant monolinear design. The accurate geometric design of its characters makes it suitable for both headings and body text. [Source 1](https://fonts.google.com/specimen/Poppins?query=poppin#about). [Source 2](https://www.designbombs.com/best-google-fonts-how-to-use-them/).
 
-- The colors on the website is inspired on a Bamboo Palette created on [Coolors.co](https://coolors.co/) with multiple shades of greens to inspire a nature and peaceful vibe on the user.
+- The colors on the website are inspired by a Bamboo Palette created on [Coolors.co](https://coolors.co/) with multiple shades of greens to inspire a natural and peaceful vibe in the user.
 
 ![](./assets/docs/color-palette.png)
 
 ## Wireframes
 
-This website was first planned from scratch on Balsamic Wireframes with the licence provided by the Code Institute. [Click here](./docs/wireframes.pdf) to see the wireframes of the raw project.
+This website was first planned from scratch on Balsamic Wireframes with the license provided by the Code Institute. [Click here](./docs/wireframes.pdf) to see the wireframes of the raw project.
 
 Please note the actual website has changed slightly from these wireframes.
 
@@ -205,6 +205,8 @@ I have used several technologies that have enabled this design to work:
     - Used to create the website's logo.
   - [CodePen.io](https://codepen.io/)
     - Used to research animations using only CSS.
+  - [Grammarly](https://www.grammarly.com/)
+    - Used to fix the grammar errors across the project.
 
 ## Code validation 
 
@@ -227,22 +229,22 @@ I have used several technologies that have enabled this design to work:
   1. **As a visitor, I can intuitively navigate through the site so that I can view desired content.**
     - As soon as you enter the page you can easily see on the navbar that you have access to the Home, Resources and Contact page.
       - The `HOME` page is indicated as selected by the bottom border beneath it;
-      - The user hover the mouse over the links `RESOURSES` and `CONTACT` and a bottom border is displayed;
-      - The bottom border is not displayed if the user move the mouse out of the link area;
-      - The user can click the links `HOME`, `RESOURSES` and `CONTACT` to be redirected to the respective page;
-      - The name of the page clicked by the user become selected by the bottom border beneath it.
+      - The user hovers the mouse over the links `RESOURCES` and `CONTACT` and a bottom border is displayed;
+      - The bottom border is not displayed if the user moves the mouse out of the link area;
+      - The user can click the links `HOME`, `RESOURCES` and `CONTACT` to be redirected to the respective page;
+      - The name of the page clicked by the user becomes selected by the bottom border beneath it.
 
   ![Navigation](./assets/docs/navigation.png)
   
-  2. **As a visitor, I can easily find useful information & tips for a better balanced life and inspiration to use the website's content.**
-    - You can imediately find on the first block of text, information of how to start using the principles of Yin-Yang to have a balanced life and information on how to navigate the website's content. 
-      - When the website is first loaded, the image of a bamboo path is immediate displayed to the user with a animation that re-scale the image causing a focus effect;
+  2. **As a visitor, I can easily find useful information & tips for a better-balanced life and inspiration to use the website's content.**
+    - You can immediately find on the first block of text, information on how to start using the principles of Yin-Yang to have a balanced life and information on how to navigate the website's content. 
+      - When the website is first loaded, the image of a bamboo path is immediately displayed to the user with an animation that re-scales the image causing a focus effect;
       - The effect is reproduced when the page is refreshed.
     
   ![Landing](./assets/docs/landing.png)
   
   3. **As a visitor I can get key information about the Yin-Yang concepts so that I can spend less time having to search for information.**
-    - Following along in the Home Page you can read the "What does Yin Yang means and how can you use it to have a better life!" with objective and direct information about the concepts.
+    - Following along on the Home Page you can read the "What does Yin Yang mean and how can you use it to have a better life!" with objective and direct information about the concepts.
 
   ![Card](./assets/docs/card.png)
   
@@ -253,37 +255,37 @@ I have used several technologies that have enabled this design to work:
 
   ![Footer](./assets/docs/footer.png)
   
-  5. **As a visitor I can find calming videos to watch for momments of relaxing.**
+  5. **As a visitor I can find calming videos to watch for moments of relaxation.**
     - As soon as you enter the Resources page you can easily find a box of inspiring and relaxing videos to watch and have a moment for yourself.
-      - The user can click the `Play` button found in the center of any of the videos frames;
+      - The user can click the `Play` button found in the center of any of the video's frames;
       - The video starts playing and the video controls are shown with the buttons `play/pause`, `volume`, `settings`, `Youtube` and `Full Screen`; The `duration` and the `progress bar` are also displayed;
-      - The user clicks the `play/pause` button and the video pause/start again;
-      - The user hover the mouse on the `volume` button and a volume bar is shown;
+      - The user clicks the `play/pause` button and the video pauses/starts again;
+      - The user hovers the mouse on the `volume` button and a volume bar is shown;
       - The user slides the volume bar left or right to increase or decrease the volume respectively;
-      - The user click the `volume` button and the video mute/unmute itself;
-      - The user click the `settings` button and the options Notes, Playback Speed and Quality are displayed;
-      - The user can click `Youtube` button and a new tab will open to play the video on You Tube page
+      - The user clicks the `volume` button and the video mute/unmute itself;
+      - The user clicks the `settings` button and the options Notes, Playback Speed and Quality are displayed;
+      - The user can click the `Youtube` button and a new tab will open to play the video on the YouTube page
       - The user watch the videos as long as he wants;
-      - If the user prefer, he can click `Watch on Youtube` button before clicking the `Play` button found in the center of the video frame and a new tab will open to play the video on You Tube page.
+      - If the user prefers, he can click the `Watch on Youtube` button before clicking the `Play` button found in the center of the video frame and a new tab will open to play the video on the YouTube page.
 
   ![Videos](./assets/docs/videos.png)
   
-  6. **As a visitor I can find calming sounds to listen while doing daily tasks.**
-    - Audios with calming songs are immediately found on the second box on the Resources page so you can listen doing daily tasks, meditating or even just to enjoy. 
-      - The user click the `Play` button;
+  6. **As a visitor I can find calming sounds to listen to while doing daily tasks.**
+    - Audios with calming songs are immediately found on the second box on the Resources page so you can listen to doing daily tasks, meditating or even just enjoy. 
+      - The user clicks the `Play` button;
       - The audio starts playing;
-      - The progress bar starts increasing accordling to the audio;
-      - The user hover the mouse on the `volume` button and a volume bar is shown;
+      - The progress bar starts increasing according to the audio;
+      - The user hovers the mouse on the `volume` button and a volume bar is shown;
       - The user slides the volume bar right or left to increase or decrease the volume respectively;
-      - The user click the `volume` button and the video mute/unmute itself;
-      - The user click on the three dots on the right hand side and a window is shown with the options `Download` and `Playback speed`;
-      - The user listen to the sounds as long as he wants.
+      - The user clicks the `volume` button and the video mute/unmute itself;
+      - The user clicks on the three dots on the right-hand side and a window is shown with the options `Download` and `Playback speed`;
+      - The user listens to the sounds for as long as he wants.
 
   ![Audios](./assets/docs/audio.png)
   
-  7. **As a visitor I can access useful resources to deep dive the website's subject.**
+  7. **As a visitor I can access useful resources to deep dive into the website's subject.**
     - Useful resources are easily found on the table of contents of the Resources Page with external links that can lead you to even more information and specificities about the YinYang doctrine.
-      - The user click on the link;
+      - The user clicks on the link;
       - A new tab will open displaying the external resource;
 
   ![Links](./assets/docs/links.png)
@@ -294,39 +296,39 @@ I have used several technologies that have enabled this design to work:
   ![Contact](./assets/docs/contact.png)
   
   9. **As a visitor I can contact the creator via e-mail with the contact form.**
-    - The contac page contains a form that you can fill in with your name, e-mail and a message that is sent straight to the e-mail of the website's creator.
-      - If the user click the `Submit e-mail!` Button an error message will be displayed on the `Name` field as this is a required field;
-      - The user fill the `Name` field with his name;
-      - If the user click the `Submit e-mail!` Button an error message will be displayed on the `E-mail` field as this is a required field;
-      - The user fill the `E-mail` field with his contact e-mail;
-      - If the user click the `Submit e-mail!` Button an error message will be displayed on the `Message` field as this is a required field;
-      - The user fill the `Message` field with his message directed to the website's creator;
-      - If the user click the `Submit e-mail!` Button and no error should appear;
+    - The contact page contains a form that you can fill in with your name, e-mail and a message that is sent straight to the e-mail of the website's creator.
+      - If the user clicks the `Submit e-mail!` Button an error message will be displayed on the `Name` field as this is a required field;
+      - The user fills the `Name` field with his name;
+      - If the user clicks the `Submit e-mail!` Button an error message will be displayed on the `E-mail` field as this is a required field;
+      - The user fills the `E-mail` field with his contact e-mail;
+      - If the user clicks the `Submit e-mail!` Button an error message will be displayed on the `Message` field as this is a required field;
+      - The user fills the `Message` field with his message directed to the website's creator;
+      - If the user clicks the `Submit e-mail!` Button and no error should appear;
       - The user is redirected to the success page confirming the submission of the form.
 
   ![Form](./assets/docs/form.png)
   
-  10. **As a visitor I am notified about success/fail submission of the e-mail message.**
+  10. **As a visitor I am notified about the success/fail submission of the e-mail message.**
     - As soon as you submit your message by clicking the `Submit e-mail!` button, you are redirected to a Success Page, confirming that the submission was successful.
       - When the page is loaded the user can immediately see a message of confirmation;
-      - An animated success image is shown on the page with a pop up effect animation;
+      - An animated success image is shown on the page with a pop-up effect animation;
 
   ![Success](./assets/docs/success.png)
 
 ## Fixed bugs
 
-  - A bug was found on resizing the buddha and the rocks image on the Home page, as can be see in the images below:
+  - A bug was found in resizing the buddha and the image of the rocks on the Home page, as can be seen in the images below:
 
   ![](./assets/docs/bug1.png)
   ![](./assets/docs/bug2.png)
  
-  - The root cause found was the widths/heights sizes of the images, that was set to be on pixels.
+  - The root cause found was the widths/heights sizes of the images, that were set to be on pixels.
   - To fix this issue, the CSS file was changed on the classes `.block-text`, `budda-face` and `balanced-rocks`.
-  - the pixels values were converted to percentage and the images became responsive on any screen sizes.
+  - the pixels values were converted to a percentage and the images became responsive on any screen size.
 
 ## Supported Screens and Browsers
 
-- The website is fully responsive and can be accessed smartphones (width of 600px and smaller), tablets (width of 820px and smaller) and monitors of any size.
+- The website is fully responsive and can be accessed on smartphones (width of 600px and smaller), tablets (width of 820px and smaller) and monitors of any size.
 
 - The website was tested and is supported on the browsers Google Chrome, Mozilla Firefox, Microsoft Edge, Opera and Brave.
 
@@ -365,7 +367,7 @@ Cloning your repository will allow you to download a local version of the reposi
   2. Press the arrow on the Code button
   3. Copy the link that is shown in the drop-down
   4. Now open Gitpod & select the directory location where you would like the clone created
-  5. In the terminal type 'git clone' & then paste the link you copied in GitHub
+  5. In the terminal type 'git clone' & then paste the link you copied on GitHub
   6. Press enter and your local clone will be created.
 
 ## Via Github Pages
@@ -396,14 +398,14 @@ The live link can be found [here](https://bruno-diego.github.io/CodeInstitutePor
   - [Budda and sage incense](https://www.pexels.com/photo/stone-buddha-and-sage-incense-bundle-in-bowl-on-marble-shelf-4203071/).
   - [CodePen.io](https://codepen.io/) for animations.
   - [FormSubmit](https://formsubmit.co/).
-  - The credits for the Success animation goes to the work done in Codepen.io by Konstantin Rouda
+  - The credits for the Success animation go to the work done in Codepen.io by Konstantin Rouda
  (@Konrud) and can be viewed on [this link](https://codepen.io/Konrud/pen/mwZXgV).
-  - The credits for the spinning Yin-Yang animation goes to @AdamSSenniN and can be viewed in [this link](https://codepen.io/AdamSSenniN/pen/xZpaow).
+  - The credits for the spinning Yin-Yang animation go to @AdamSSenniN and can be viewed in [this link](https://codepen.io/AdamSSenniN/pen/xZpaow).
 
 ---
 
 ## Acknowledgements
 
-I would like to thank my course mentor Rohit Sharma for his support and guidance throughout the course of the project and to our Code Institute Cohort Facilitator Kasia Bogucka for their support & feedback.
+I would like to thank my course mentor Rohit Sharma for his support and guidance throughout the project and our Code Institute Cohort Facilitator Kasia Bogucka for their support & feedback.
 
 ---
