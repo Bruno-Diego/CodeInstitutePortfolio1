@@ -163,7 +163,7 @@ The footer contains icons for Facebook, Instagram, Github and LinkedIn, which li
 
 ## Wireframes
 
-This website was first planned from scratch on Balsamic Wireframes with the license provided by the Code Institute. [Click here](./docs/wireframes.pdf) to see the wireframes of the raw project.
+This website was first planned from scratch on Balsamic Wireframes with the license provided by the Code Institute. [Click here](./assets/docs/wireframes.pdf) to see the wireframes of the raw project.
 
 Please note the actual website has changed slightly from these wireframes.
 
