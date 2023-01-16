@@ -2,7 +2,7 @@
 
 ![](./assets/docs/responsiveness.png)
 
-[Access the Live YinYang Website here](https://bruno-diego.github.io/CodeInstitutePortfolio1/) (Ctrl + Click to open on a new tab)
+[Access the Live YinYang Website here](https://bruno-diego.github.io/ci-portfolio1/) (Ctrl + Click to open on a new tab)
 
 ## Table of Contents
 1. [**UX**](#ux)
